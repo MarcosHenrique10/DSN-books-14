@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id525g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="250458ms" clipEnd="251458ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id525">
+			<!-- Would -->
+			<text src="../024.xhtml#w525"/>
+			<audio clipBegin="251458ms" clipEnd="251688ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id526">
+			<!-- Woody -->
+			<text src="../024.xhtml#w526"/>
+			<audio clipBegin="251688ms" clipEnd="252008ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id527">
+			<!-- and -->
+			<text src="../024.xhtml#w527"/>
+			<audio clipBegin="252008ms" clipEnd="252188ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id528">
+			<!-- Buzz -->
+			<text src="../024.xhtml#w528"/>
+			<audio clipBegin="252188ms" clipEnd="252688ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id529">
+			<!-- be -->
+			<text src="../024.xhtml#w529"/>
+			<audio clipBegin="252688ms" clipEnd="252828ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id530">
+			<!-- able -->
+			<text src="../024.xhtml#w530"/>
+			<audio clipBegin="252828ms" clipEnd="253078ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id531">
+			<!-- to -->
+			<text src="../024.xhtml#w531"/>
+			<audio clipBegin="253078ms" clipEnd="253168ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id532">
+			<!-- save -->
+			<text src="../024.xhtml#w532"/>
+			<audio clipBegin="253168ms" clipEnd="253508ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id533">
+			<!-- her -->
+			<text src="../024.xhtml#w533"/>
+			<audio clipBegin="253508ms" clipEnd="253768ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id533g">
+			<!--  -->
+			<text src="../024.xhtml#empty1"/>
+			<audio clipBegin="253768ms" clipEnd="254718ms" src="../audio/9781484786352.m4a"/>
+		</par>
+	</body>
+</smil>

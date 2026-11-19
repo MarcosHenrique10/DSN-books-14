@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="14668ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="14668ms" clipEnd="15258ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- by -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="15258ms" clipEnd="15488ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Ben -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="15488ms" clipEnd="15758ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Butcher -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="15758ms" clipEnd="16618ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="16618ms" clipEnd="17158ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- by -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="17158ms" clipEnd="17308ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Christopher -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="17308ms" clipEnd="17808ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Nicholas -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="17808ms" clipEnd="18388ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id8g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="18388ms" clipEnd="19313ms" src="../audio/9781484786352.m4a"/>
+		</par>
+	</body>
+</smil>

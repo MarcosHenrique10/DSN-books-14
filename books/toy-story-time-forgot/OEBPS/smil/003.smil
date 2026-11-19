@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="9635ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Toy -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="9635ms" clipEnd="9905ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Story -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="9905ms" clipEnd="10745ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- That -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="10745ms" clipEnd="11085ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Time -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="11085ms" clipEnd="11505ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Forgot -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="11505ms" clipEnd="12735ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="12735ms" clipEnd="13215ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- by -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="13215ms" clipEnd="13385ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Megan -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="13385ms" clipEnd="13765ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Roth -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="13765ms" clipEnd="14445ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- and -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="14445ms" clipEnd="14525ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Liz -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="14525ms" clipEnd="14875ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Marsham -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="14875ms" clipEnd="15405ms" src="../audio/9781484729021.m4a"/>
+    </par>
+    <par id="id12g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="15405ms" clipEnd="16341ms" src="../audio/9781484729021.m4a"/>
+    </par>
+  </body>
+</smil>

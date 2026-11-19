@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id36g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="31353ms" clipEnd="32328ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id36">
+			<!-- But -->
+			<text src="../006.xhtml#w36"/>
+			<audio clipBegin="32328ms" clipEnd="32538ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id37">
+			<!-- Andy's -->
+			<text src="../006.xhtml#w37"/>
+			<audio clipBegin="32538ms" clipEnd="33008ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id38">
+			<!-- favorite -->
+			<text src="../006.xhtml#w38"/>
+			<audio clipBegin="33008ms" clipEnd="33458ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id39">
+			<!-- toys -->
+			<text src="../006.xhtml#w39"/>
+			<audio clipBegin="33458ms" clipEnd="33988ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id40">
+			<!-- are -->
+			<text src="../006.xhtml#w40"/>
+			<audio clipBegin="33988ms" clipEnd="34138ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id41">
+			<!-- a -->
+			<text src="../006.xhtml#w41"/>
+			<audio clipBegin="34138ms" clipEnd="34188ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id42">
+			<!-- cowboy -->
+			<text src="../006.xhtml#w42"/>
+			<audio clipBegin="34188ms" clipEnd="35108ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id43">
+			<!-- named -->
+			<text src="../006.xhtml#w43"/>
+			<audio clipBegin="35108ms" clipEnd="35378ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id44">
+			<!-- Woody -->
+			<text src="../006.xhtml#w44"/>
+			<audio clipBegin="35378ms" clipEnd="35838ms" src="../audio/9781484786352.m4a"/>
+		</par>
+		<par id="id44g">
+			<!--  -->
+			<text src="../006.xhtml#empty1"/>
+			<audio clipBegin="35838ms" clipEnd="36383ms" src="../audio/9781484786352.m4a"/>
+		</par>
+	</body>
+</smil>
