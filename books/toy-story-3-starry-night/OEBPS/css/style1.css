@@ -1,0 +1,252 @@
+img{z-index:-1;}
+
+body {
+	width: 765px;
+	height: 979px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 765px;
+	height: 979px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+@font-face{
+font-family:"AGaramondPro-Regular";
+src: url(../fonts/AGaramondPro-Regular.ttf);
+}
+
+@font-face{
+font-family:"Aller_It";
+src: url(../fonts/Aller_It.ttf);
+}
+
+@font-face{
+font-family:"Aller_Rg";
+src: url(../fonts/Aller_Rg.ttf);
+}
+
+@font-face{
+font-family:"arial";
+src: url(../fonts/arial.ttf);
+}
+
+p.nonindent{
+	font-family:"Aller_Rg";
+	font-size: 15px;
+	line-height: 20px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 2px;
+}
+p.indent{
+	font-family:"Aller_Rg";
+	font-size: 19px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 2px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 686px;
+	left: 97px;
+	right: 0px;
+width: 577px;height: 200px;}
+div.page4_item1{
+	position: absolute;
+	top: 50px;
+	left: 58px;
+	right: 0px;
+width: 688px;height: 197px;}
+div.page7_item1{
+	position: absolute;
+	top: 51px;
+	left: 56px;
+	right: 0px;
+width: 685px;height: 205px;}
+div.page8_item1{
+	position: absolute;
+	top: 49px;
+	left: 58px;
+	right: 0px;
+width: 644px;height: 118px;}
+div.page9_item1{
+	position: absolute;
+	top: 49px;
+	left: 57px;
+	right: 0px;
+width: 673px;height: 122px;}
+div.page10_item1{
+	position: absolute;
+	top: 50px;
+	left: 58px;
+	right: 0px;
+width: 676px;height: 131px;}
+div.page11_item1{
+	position: absolute;
+	top: 49px;
+	left: 57px;
+	right: 0px;
+width: 686px;height: 177px;}
+div.page12_item1{
+	position: absolute;
+	top: 50px;
+	left: 57px;
+	right: 0px;
+width: 691px;height: 221px;}
+div.page13_item1{
+	position: absolute;
+	top: 48px;
+	left: 55px;
+	right: 0px;
+width: 645px;height: 118px;}
+div.page15_item1{
+	position: absolute;
+	top: 112px;
+	left: 315px;
+	right: 0px;
+width: 395px;height: 156px;}
+div.page17_item1{
+	position: absolute;
+	top: 362px;
+	left: 282px;
+	right: 0px;
+width: 477px;height: 260px;}
+div.page18_item1{
+	position: absolute;
+	top: 51px;
+	left: 59px;
+	right: 0px;
+width: 633px;height: 257px;}
+div.page20_item1{
+	position: absolute;
+	top: 50px;
+	left: 58px;
+	right: 0px;
+width: 644px;height: 207px;}
+div.page21_item1{
+	position: absolute;
+	top: 821px;
+	left: 59px;
+	right: 0px;
+width: 664px;height: 113px;}
+div.page22_item1{
+	position: absolute;
+	top: 51px;
+	left: 57px;
+	right: 0px;
+width: 675px;height: 264px;}
+div.page24_item1{
+	position: absolute;
+	top: 166px;
+	left: 166px;
+	right: 0px;
+width: 409px;height: 99px;}
+div.page26_item1{
+	position: absolute;
+	top: 51px;
+	left: 58px;
+	right: 0px;
+width: 395px;height: 225px;}
+
+
+p.copy{
+	font-family:"AGaramondPro-Regular";
+	font-size: 13px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 22px;
+	color: #FFFFFF;
+}
+div.page3_item1{
+ position: absolute;
+	top: 13px;
+	left: 251px;
+	right: 0px;width: 373px;height: 277px;}
+
+
+span.arial
+{
+font-family:"arial";
+}
+
+p.indent1{
+	font-family:"Aller_Rg";
+	font-size: 19px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 2px;
+	color: #FFFFFF;
+}
+
+p.indent2{
+	font-family:"Aller_Rg";
+	font-size: 17px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 2px;
+	color: #FFFFFF;
+}
+
+p.nonindent1{
+	color: #FFFFFF;
+	font-family:"Aller_Rg";
+	font-size: 20px;
+	line-height: 55px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+
+.media-overlay-active { color:#2bb7f6 !important; }
+
+
+span.itailic{
+font-family:"Aller_It";
+}

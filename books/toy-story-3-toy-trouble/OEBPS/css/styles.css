@@ -1,0 +1,108 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/arial.otf);
+}
+@font-face {
+	font-family:"billy-book";
+	src: url(../fonts/billy.otf);
+}
+@font-face {
+	font-family:"century-os-mt-regular";
+	src: url(../fonts/centuryOSMT.otf);
+}
+@font-face {
+	font-family:"gill-sans-bold-italic";
+	src: url(../fonts/gillSansBoldItalic.otf);
+}
+@font-face {
+	font-family:"houseARama-Kingpin";
+	src: url(../fonts/houseARama-Kingpin.otf);
+}
+
+.font-1 {
+	font-family:"billy-book";
+	font-size:14px;
+	line-height: 15px;
+	display: block;
+}
+.font-2 {
+	font-family:"century-os-mt-roman";
+	font-size:13px;
+	line-height:14px;
+}
+.font-3-a {
+	font-family:"billy-book";
+	font-size:28px;
+	line-height:40px;
+}
+.font-3 {
+	font-family:"billy-book";
+	font-size:22px;
+	line-height:30px;
+}
+.font-3.w span.media-overlay-active { color:#ff6699 !important; } /* For audio books */ 
+.font-3.b span.media-overlay-active { color:#cc0000 !important; } /* For audio books */ 
+
+.font-4 {
+	font-family:"billy-book";
+	font-size:91px;
+	line-height:60px;
+}
+.font-4.w span.media-overlay-active { color:#ff6699 !important; } /* For audio books */ 
+
+.font-5 {
+	font-family:"gill-sans-bold-italic";
+	font-size:24px;
+	line-height:25px;
+}
+.font-5.w span.media-overlay-active { color:#ff6699 !important; } /* For audio books */ 
+.font-6 {
+	font-family:"houseARama-Kingpin";
+	font-size:65px;
+	line-height:60px;
+}
+
+.w {color: #ffffff;}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent: 20px; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:870px; height:870px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1739px; height:870px; overflow:hidden; position:relative; background-size:contain; }
+.pageKF8-single { width:870px; height:870px; position:relative; background-size:contain; left:25%; }
+
+/*TESTING EPUB/EPIB*/
+/* 
+.rbone,
+.page {
+	border: 1px solid red;
+}
+.pageKF8 {
+	background-color: red !important;
+}
+.gbone,
+.text-frame {
+	border: 1px solid #bada55;
+}
+.bbone {
+	border: 1px solid blue;
+}
+.pbone {
+	border: 1px solid fuchsia;
+}
+body {
+	color: fuchsia; blue;
+}
+ */
+

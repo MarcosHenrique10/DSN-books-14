@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="15945ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Disney -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="15945ms" clipEnd="16445ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Pixar -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16445ms" clipEnd="17845ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- UP -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="17845ms" clipEnd="19075ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="19075ms" clipEnd="19645ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="19645ms" clipEnd="19905ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Tennant -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19905ms" clipEnd="20355ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Redbank -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="20355ms" clipEnd="21555ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="21555ms" clipEnd="22395ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- by -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="22395ms" clipEnd="22555ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Jean -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="22555ms" clipEnd="22685ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Paul -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="22685ms" clipEnd="23025ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Orpiñas -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="23025ms" clipEnd="23875ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- and -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="23875ms" clipEnd="23985ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Scott -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="23985ms" clipEnd="24425ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Tilley -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="24425ms" clipEnd="25485ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Designed -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="25485ms" clipEnd="25975ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- by -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="25975ms" clipEnd="26175ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Stuart -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="26175ms" clipEnd="26635ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- Smith -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="26635ms" clipEnd="27075ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id19g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="27075ms" clipEnd="28068ms" src="../audio/9781484751336.m4a"/>
+    </par>
+  </body>
+</smil>

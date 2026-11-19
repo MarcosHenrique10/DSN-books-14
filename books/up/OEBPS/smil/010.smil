@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id148g">
+      <!--  -->
+      <text src="../010.xhtml#empty"/>
+      <audio clipBegin="94242ms" clipEnd="95365ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id148">
+      <!-- Russell -->
+      <text src="../010.xhtml#w148"/>
+      <audio clipBegin="95365ms" clipEnd="95965ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id149">
+      <!-- was -->
+      <text src="../010.xhtml#w149"/>
+      <audio clipBegin="95965ms" clipEnd="96225ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id150">
+      <!-- a -->
+      <text src="../010.xhtml#w150"/>
+      <audio clipBegin="96225ms" clipEnd="96285ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id151">
+      <!-- Junior -->
+      <text src="../010.xhtml#w151"/>
+      <audio clipBegin="96285ms" clipEnd="96845ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id152">
+      <!-- Wilderness -->
+      <text src="../010.xhtml#w152"/>
+      <audio clipBegin="96845ms" clipEnd="97545ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id153">
+      <!-- Explorer -->
+      <text src="../010.xhtml#w153"/>
+      <audio clipBegin="97545ms" clipEnd="99005ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id154">
+      <!-- He -->
+      <text src="../010.xhtml#w154"/>
+      <audio clipBegin="99005ms" clipEnd="99125ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id155">
+      <!-- had -->
+      <text src="../010.xhtml#w155"/>
+      <audio clipBegin="99125ms" clipEnd="99235ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id156">
+      <!-- earned -->
+      <text src="../010.xhtml#w156"/>
+      <audio clipBegin="99235ms" clipEnd="99475ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id157">
+      <!-- badges -->
+      <text src="../010.xhtml#w157"/>
+      <audio clipBegin="99475ms" clipEnd="99945ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id158">
+      <!-- for -->
+      <text src="../010.xhtml#w158"/>
+      <audio clipBegin="99945ms" clipEnd="100135ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id159">
+      <!-- fishing -->
+      <text src="../010.xhtml#w159"/>
+      <audio clipBegin="100135ms" clipEnd="100865ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id160">
+      <!-- camping -->
+      <text src="../010.xhtml#w160"/>
+      <audio clipBegin="100865ms" clipEnd="101715ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id161">
+      <!-- and -->
+      <text src="../010.xhtml#w161"/>
+      <audio clipBegin="101715ms" clipEnd="101855ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id162">
+      <!-- many -->
+      <text src="../010.xhtml#w162"/>
+      <audio clipBegin="101855ms" clipEnd="102205ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id163">
+      <!-- other -->
+      <text src="../010.xhtml#w163"/>
+      <audio clipBegin="102205ms" clipEnd="102445ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id164">
+      <!-- things -->
+      <text src="../010.xhtml#w164"/>
+      <audio clipBegin="102445ms" clipEnd="103015ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id164g">
+      <!--  -->
+      <text src="../010.xhtml#empty1"/>
+      <audio clipBegin="103015ms" clipEnd="103920ms" src="../audio/9781484751336.m4a"/>
+    </par>
+  </body>
+</smil>

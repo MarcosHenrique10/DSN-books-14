@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id20g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="28068ms" clipEnd="29175ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- Carl -->
+      <text src="../004.xhtml#w20"/>
+      <audio clipBegin="29175ms" clipEnd="29565ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- Fredricksen -->
+      <text src="../004.xhtml#w21"/>
+      <audio clipBegin="29565ms" clipEnd="30365ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- lived -->
+      <text src="../004.xhtml#w22"/>
+      <audio clipBegin="30365ms" clipEnd="30695ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- alone -->
+      <text src="../004.xhtml#w23"/>
+      <audio clipBegin="30695ms" clipEnd="31225ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- in -->
+      <text src="../004.xhtml#w24"/>
+      <audio clipBegin="31225ms" clipEnd="31315ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- a -->
+      <text src="../004.xhtml#w25"/>
+      <audio clipBegin="31315ms" clipEnd="31345ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- little -->
+      <text src="../004.xhtml#w26"/>
+      <audio clipBegin="31345ms" clipEnd="31755ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- wooden -->
+      <text src="../004.xhtml#w27"/>
+      <audio clipBegin="31755ms" clipEnd="32075ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- house -->
+      <text src="../004.xhtml#w28"/>
+      <audio clipBegin="32075ms" clipEnd="33445ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- He -->
+      <text src="../004.xhtml#w29"/>
+      <audio clipBegin="33445ms" clipEnd="33555ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- spent -->
+      <text src="../004.xhtml#w30"/>
+      <audio clipBegin="33555ms" clipEnd="33925ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- his -->
+      <text src="../004.xhtml#w31"/>
+      <audio clipBegin="33925ms" clipEnd="34105ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- days -->
+      <text src="../004.xhtml#w32"/>
+      <audio clipBegin="34105ms" clipEnd="34565ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id33">
+      <!-- with -->
+      <text src="../004.xhtml#w33"/>
+      <audio clipBegin="34565ms" clipEnd="34665ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- his -->
+      <text src="../004.xhtml#w34"/>
+      <audio clipBegin="34665ms" clipEnd="34835ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- memories -->
+      <text src="../004.xhtml#w35"/>
+      <audio clipBegin="34835ms" clipEnd="35345ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id36">
+      <!-- of -->
+      <text src="../004.xhtml#w36"/>
+      <audio clipBegin="35345ms" clipEnd="35445ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id37">
+      <!-- his -->
+      <text src="../004.xhtml#w37"/>
+      <audio clipBegin="35445ms" clipEnd="35585ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id38">
+      <!-- wife -->
+      <text src="../004.xhtml#w38"/>
+      <audio clipBegin="35585ms" clipEnd="36385ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id39">
+      <!-- Ellie -->
+      <text src="../004.xhtml#w39"/>
+      <audio clipBegin="36385ms" clipEnd="36755ms" src="../audio/9781484751336.m4a"/>
+    </par>
+    <par id="id39g">
+      <!--  -->
+      <text src="../004.xhtml#empty1"/>
+      <audio clipBegin="36755ms" clipEnd="37520ms" src="../audio/9781484751336.m4a"/>
+    </par>
+  </body>
+</smil>
