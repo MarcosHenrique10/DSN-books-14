@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="13130ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Toy -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="13130ms" clipEnd="13440ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Story -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="13440ms" clipEnd="14410ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- A -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="14410ms" clipEnd="14500ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Roaring -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="14500ms" clipEnd="15200ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Adventure -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="15200ms" clipEnd="16480ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- By -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="16480ms" clipEnd="16830ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Kristen -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="16830ms" clipEnd="17300ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- L -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="17300ms" clipEnd="17670ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Depken -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="17670ms" clipEnd="18630ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="18630ms" clipEnd="19300ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- by -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="19300ms" clipEnd="19520ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Josh -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="19520ms" clipEnd="20040ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Holtsclaw -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="20040ms" clipEnd="20790ms" src="../audio/9781484751664.m4a"/>
+    </par>
+    <par id="id13g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="20790ms" clipEnd="21848ms" src="../audio/9781484751664.m4a"/>
+    </par>
+  </body>
+</smil>

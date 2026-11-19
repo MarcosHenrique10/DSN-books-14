@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+<body>
+<par id="par1a">
+<text src="../023.xhtml#empty"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="279680ms" clipEnd="280990ms"/>
+</par>
+<par id="par1">
+<text src="../023.xhtml#word1"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="280990ms" clipEnd="281860ms"/>
+</par>
+<par id="par2">
+<text src="../023.xhtml#word2"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="281860ms" clipEnd="282310ms"/>
+</par>
+<par id="par3">
+<text src="../023.xhtml#word3"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="282310ms" clipEnd="282720ms"/>
+</par>
+<par id="par4">
+<text src="../023.xhtml#word4"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="282720ms" clipEnd="283230ms"/>
+</par>
+<par id="par5">
+<text src="../023.xhtml#word5"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="283230ms" clipEnd="283820ms"/>
+</par>
+<par id="par6">
+<text src="../023.xhtml#word6"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="283820ms" clipEnd="283930ms"/>
+</par>
+<par id="par7">
+<text src="../023.xhtml#word7"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="283930ms" clipEnd="284320ms"/>
+</par>
+<par id="par8">
+<text src="../023.xhtml#word8"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="284320ms" clipEnd="284760ms"/>
+</par>
+<par id="par9">
+<text src="../023.xhtml#word9"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="284760ms" clipEnd="285380ms"/>
+</par>
+<par id="par10">
+<text src="../023.xhtml#word10"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="285380ms" clipEnd="286110ms"/>
+</par>
+<par id="par11">
+<text src="../023.xhtml#word11"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="286110ms" clipEnd="286310ms"/>
+</par>
+<par id="par12">
+<text src="../023.xhtml#word12"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="286310ms" clipEnd="286900ms"/>
+</par>
+<par id="par13">
+<text src="../023.xhtml#word13"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="286900ms" clipEnd="287220ms"/>
+</par>
+<par id="par14">
+<text src="../023.xhtml#word14"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="287220ms" clipEnd="287950ms"/>
+</par>
+<par id="par15">
+<text src="../023.xhtml#empty1"/>
+<audio src="../audio/9781484722169.m4a" clipBegin="287950ms" clipEnd="288760ms"/>
+</par>
+</body>
+</smil>
