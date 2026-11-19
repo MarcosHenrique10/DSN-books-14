@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="ida">
+      <!-- Adapted -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="10280ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="10280ms" clipEnd="10703ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="10703ms" clipEnd="10923ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Victoria -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="10923ms" clipEnd="11453ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Saxon -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="11453ms" clipEnd="12907ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="12907ms" clipEnd="13631ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="13631ms" clipEnd="13881ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Lorelay -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="13881ms" clipEnd="14541ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Bove -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="14541ms" clipEnd="15703ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Designed -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="15703ms" clipEnd="16263ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- by -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="16263ms" clipEnd="16523ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Tony -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="16523ms" clipEnd="16923ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Fejeran -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="16923ms" clipEnd="17463ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id12g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="17463ms" clipEnd="18766ms" src="../audio/9781423192961.m4a"/>
+    </par>
+  </body>
+</smil>

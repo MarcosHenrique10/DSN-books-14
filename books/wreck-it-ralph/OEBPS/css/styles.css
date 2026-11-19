@@ -1,0 +1,254 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"adobe-garamond-regular";
+	src: url(../fonts/AdobeGaramondRegular.otf);
+}
+@font-face {
+	font-family:"adobe-garamond-bold";
+	src: url(../fonts/AdobeGaramondBold.otf);
+}
+@font-face {
+	font-family:"digital-font";
+	src: url(../fonts/DigitalFont.otf);
+}
+@font-face {
+	font-family:"press-start-2p-regular";
+	src: url(../fonts/PressStart2P.otf);
+}
+@font-face {
+	font-family:"data-seventy-plain";
+	src: url(../fonts/DataSeventyPlain.otf);
+}
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/ArialMT.otf);
+}
+@font-face {
+	font-family:"adobe-garamond-italic";
+	src: url(../fonts/AdobeGaramondItalic.otf);
+}
+@font-face {
+	font-family:"adobe-garamond-bold-italic";
+	src: url(../fonts/AdobeGaramondBoldItalic.otf);
+}
+.font-1 {
+	font-family:"adobe-garamond-regular";
+	font-size:13px;
+}
+.font-2 {
+	font-family:"arial-regular";
+	font-size:13px;
+}
+.font-3 {
+	font-family:"adobe-garamond-regular";
+	font-size:16px;
+}
+.font-4 {
+	font-family:"digital-font";
+	font-size:25px;
+	line-height:23px;
+}
+.font-5 {
+	font-family:"adobe-garamond-regular";
+	font-size:16px;
+	line-height:23px;
+}
+.font-6 {
+	font-family:"adobe-garamond-regular";
+	font-size:13px;
+	line-height:27px;
+}
+.font-7 {
+	font-family:"adobe-garamond-regular";
+	font-size:20px;
+	line-height:28px;
+}
+.font-7_2 {
+	font-family:"adobe-garamond-italic";
+	font-size:20px;
+	line-height:28px;
+}
+.font-8 {
+	font-family:"adobe-garamond-bold";
+	font-size:23px;
+	line-height:28px;
+}
+.font-9 {
+	font-family:"digital-font";
+	font-size:47px;
+	line-height:0px;
+}
+.font-10 {
+	font-family:"press-start-2p-regular";
+	font-size:16px;
+	line-height:27px;
+}
+.font-11 {
+	font-family:"press-start-2p-regular";
+	font-size:30px;
+	line-height:19px;
+}
+.font-12 {
+	font-family:"press-start-2p-regular";
+	font-size:19px;
+	line-height:19px;
+}
+.font-13 {
+	font-family:"press-start-2p-regular";
+	font-size:25px;
+}
+.font-14 {
+	font-family:"press-start-2p-regular";
+	font-size:28px;
+}
+.font-15 {
+	font-family:"adobe-garamond-italic";
+	font-size:21px;
+	line-height:27px;
+}
+.font-16 {
+	font-family:"digital-font";
+	font-size:26px;
+	line-height:0px;
+}
+.font-17 {
+	font-family:"adobe-garamond-regular";
+	font-size:21px;
+	line-height:27px;
+}
+.font-18 {
+	font-family:"data-seventy-plain";
+	font-size:25px;
+	line-height:27px;
+}
+.font-19 {
+	font-family:"adobe-garamond-regular";
+	font-size:19px;
+	line-height:27px;
+}
+.font-20 {
+	font-family:"adobe-garamond-bold-italic";
+	font-size:22px;
+	line-height:27px;
+}
+.font-21 {
+	font-family:"times-regular";
+	font-size:19px;
+}
+.font-22 {
+	font-family:"adobe-garamond-bold-italic";
+	font-size:32px;
+	line-height:29px;
+}
+.font-23 {
+	font-family:"adobe-garamond-bold-italic";
+	font-size:27px;
+	line-height:29px;
+}
+.font-24 {
+	font-family:"adobe-garamond-bold-italic";
+	font-size:40px;
+	line-height:40px;
+}
+.font-25 {
+	font-family:"adobe-garamond-bold-italic";
+	font-size:32px;
+	line-height:31px;
+}
+.font-26 {
+	font-family:"adobe-garamond-bold-italic";
+	font-size:37px;
+	line-height:35px;
+}
+.font-27 {
+	font-family:"adobe-garamond-bold-italic";
+	font-size:37px;
+	line-height:31px;
+}
+
+.vl-01 {
+	vertical-align:-2px;
+}
+.color-01 {
+	color:#FFF;
+}
+.color-02 {
+	color:#000;
+}
+.lh-01 {
+	line-height:15px !important;
+}
+.mg-01 {
+	margin-right:-5px !important;
+}
+.mg-02 {
+	margin-right:-5px !important;
+	margin-left:1px !important;
+}
+
+
+
+.mrg-01 {
+	margin-top:15px !important;
+	margin-bottom:15px !important;
+}
+.mrg-02 {
+	margin-bottom:18px !important;
+}
+.mrg-03 {
+	margin-left:40px !important;
+}
+.mrg-04 {
+	margin-left:65px !important;
+}
+.mrg-05 {
+	margin-left:20px !important;
+}
+.mrg-06 {
+	margin-left:60px !important;
+}
+
+.mrg-07 {
+	margin-left:40px !important;
+}
+.mrg-08 {
+	margin-left:50px !important;
+}
+.mrg-09 {
+	margin-left:100px !important;
+}
+.mrg-10 {
+	margin-left:180px !important;
+}
+.mrg-11 {
+	margin-left:80px !important;
+}
+.mrg-12 {
+	margin-left:60px !important;
+}
+.mrg-13 {
+	margin-left:30px !important;
+}
+.mrg-14 {
+	margin-left:20px !important;
+}
+
+
+
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:738px; height:891px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:891px; overflow:hidden; position:relative; background-size:contain; }
+.pageKF8-single { width:738px; height:891px; position:relative; background-size:contain; left:25%; }

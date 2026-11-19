@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="21316ms" src="../audio/9781484719039.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Written -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="21316ms" clipEnd="21576ms" src="../audio/9781484719039.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="21576ms" clipEnd="21736ms" src="../audio/9781484719039.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Holly -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="21736ms" clipEnd="22026ms" src="../audio/9781484719039.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Huckins -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="22026ms" clipEnd="22926ms" src="../audio/9781484719039.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="22926ms" clipEnd="23626ms" src="../audio/9781484719039.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="23626ms" clipEnd="23856ms" src="../audio/9781484719039.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Marco -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="23856ms" clipEnd="24346ms" src="../audio/9781484719039.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Bucci -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="24346ms" clipEnd="24846ms" src="../audio/9781484719039.m4a"/>
+    </par>
+    <par id="id8g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="24846ms" clipEnd="25856ms" src="../audio/9781484719039.m4a"/>
+    </par>
+  </body>
+</smil>

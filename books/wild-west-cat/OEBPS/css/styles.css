@@ -1,0 +1,133 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"rockwell-std-regular";
+	src: url(../fonts/RockwellStd.otf);
+}
+@font-face {
+	font-family:"adobe-garamond-pro-regular";
+	src: url(../fonts/AGaramondPro-Regular.otf);
+}
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/ArialMT.otf);
+}
+@font-face {
+	font-family:"oklahoma-pro-sheriff";
+	src: url(../fonts/OklahomaPro-Sheriff.otf);
+}
+.font-1 {
+	font-family:"adobe-garamond-pro-regular";
+	font-size:35px;
+}
+.font-2 {
+	font-family:"rockwell-std-regular";
+	font-size:11px;
+}
+.font-3 {
+	font-family:"arial-regular";
+	font-size:11px;
+}
+.font-4 {
+	font-family:"rockwell-std-regular";
+	font-size:19px;
+	line-height:29px;
+}
+.font-5 {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:47px;
+	line-height:29px;
+}
+.font-6 {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:19px;
+	line-height:29px;
+}
+.font-7 {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:32px;
+	line-height:45px;
+}
+.font-8 {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:26px;
+	line-height:29px;
+}
+.font-9 {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:32px;
+	line-height:51px;
+}
+.font-10 {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:42px;
+	line-height:51px;
+	fill: #fff;
+}
+.font-11 {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:28px;
+	line-height:43px;
+}
+.font-12a {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:37px;
+	line-height:60px;
+	letter-spacing: -0.1em;
+}
+.font-12b {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:45px;
+	line-height:60px;
+	letter-spacing: -0.1em;
+}
+.font-12c {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:52px;
+	line-height:60px;
+}
+.font-12d {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:59px;
+	line-height:60px;
+	letter-spacing: 0.2em;
+}
+.font-12e {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:65px;
+	line-height:60px;
+	letter-spacing: 0.15em;
+}
+.font-12f {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:72px;
+	line-height:60px;
+	letter-spacing: 0.15em;
+}
+.font-12g {
+	font-family:"oklahoma-pro-sheriff";
+	font-size:81px;
+	line-height:60px;
+	letter-spacing: 0.1em;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+tspan.media-overlay-active { fill:#f00 !important; } /* For audio book tspans */
+tspan.yellow-highlight.media-overlay-active { fill: #f5f3a0 !important; }
+.page, .page img { width:738px; height:916px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:916px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:738px; height:916px; position:relative; background-size:100% 100% !important; left:25%; }
+/*span { color:#f6f !important; }*/
+.copyright-lineheight { line-height: 0.75em; }
+.copyright-spacer { padding-top: 0.75em; }

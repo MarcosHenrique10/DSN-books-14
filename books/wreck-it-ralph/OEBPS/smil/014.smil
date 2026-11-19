@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id212g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="112162ms" clipEnd="112999ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id212">
+      <!-- At -->
+      <text src="../014.xhtml#w212"/>
+      <audio clipBegin="112999ms" clipEnd="113249ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id213">
+      <!-- King -->
+      <text src="../014.xhtml#w213"/>
+      <audio clipBegin="113249ms" clipEnd="113529ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id214">
+      <!-- Candy's -->
+      <text src="../014.xhtml#w214"/>
+      <audio clipBegin="113529ms" clipEnd="114019ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id215">
+      <!-- garage -->
+      <text src="../014.xhtml#w215"/>
+      <audio clipBegin="114019ms" clipEnd="114809ms" src="../audio/9781423192961.m4a"/>
+    </par>
+    <par id="id215g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="114809ms" clipEnd="114952ms" src="../audio/9781423192961.m4a"/>
+    </par>
+  </body>
+</smil>
