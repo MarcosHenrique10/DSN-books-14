@@ -1,0 +1,406 @@
+img{z-index:-1;}
+body {
+	width: 999px;
+	height: 999px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 999px;
+	height: 999px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+p.author{
+	font-size: 21px;
+	line-height: 24px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	font-family: "AvenirNextLTProBoldCn";
+}
+p.logo{
+	font-size: 13px;
+	line-height: 15px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "AvenirNextLTPro-Light";
+}
+p.logo1{
+	font-size: 10px;
+	line-height: 15px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+	font-family: "AvenirNextLTPro-Light";
+}
+p.crt0{
+	font-size: 12px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+	font-family: "AvenirNextLTPro-Light";
+}
+p.crt{
+	font-size: 12px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+	font-family: "AvenirNextLTPro-Light";
+}
+p.nonindent{
+	font-size: 24px;
+	line-height: 35px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family: "CenturyOldStyleStd-Regular";
+}
+p.indent{
+	font-size: 24px;
+	line-height: 35px;
+	text-align: left;
+	text-indent: .7em;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family: "CenturyOldStyleStd-Regular";
+}
+span.big{
+  font-family: "MonsterFontsHouseofDeath";
+  font-size:34px;
+  color:#C5DA3E;
+}
+span.big2{
+  font-family: "MonsterFontsHouseofDeath";
+  font-size:34px;
+  color:#C5DA3E;
+  letter-spacing:-1px;
+}
+span.big1{
+  font-family: "MonsterFontsHouseofDeath";
+  font-size:56px;
+  color:#C5DA3E;
+}
+span.dc{
+  font-family: "MonsterFontsHouseofDeath";
+  font-size:170px;
+  float:left;
+  line-height:.4em;
+  margin-left:-.14em;
+  color:#C5DA3E;
+}
+span.dc1{
+	vertical-align:.1em;
+}
+span.italic{
+  font-family: "CenturyOldStyleStd-Italic";
+}
+span.space{margin-left:5.1em;}
+p.back{
+	font-size: 34px;
+	line-height: 48px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family: "CenturyOldStyleStd-Regular";
+}
+.white{color:#ffffff;}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 797px;
+	left: 119px;
+	right: 0px;
+width: 761px;height: 122px;}
+div.page3_item1{
+	position: absolute;
+	top: 82px;
+	left: 282px;
+	right: 0px;
+width: 428px;height: 280px;}
+div.page3_item2{
+	position: absolute;
+	top: 750px;
+	left: 208px;
+	right: 0px;
+width: 583px;height: 91px;}
+div.page3_item3{
+	position: absolute;
+	top: 915px;
+	left: 430px;
+	right: 0px;
+width: 172px;height: 23px;}
+div.page4_item1{
+	position: absolute;
+	top: 88px;
+	left: 94px;
+	right: 0px;
+width: 779px;height: 247px;}
+div.page5_item1{
+	position: absolute;
+	top: 705px;
+	left: 80px;
+	right: 0px;
+width: 917px;height: 200px;}
+div.page7_item1{
+	position: absolute;
+	top: 86px;
+	left: 92px;
+	right: 0px;
+width: 893px;height: 103px;}
+div.page8_item1{
+	position: absolute;
+	top: 86px;
+	left: 329px;
+	right: 0px;
+width: 471px;height: 136px;}
+div.page9_item1{
+	position: absolute;
+	top: 723px;
+	left: 63px;
+	right: 0px;
+width: 932px;height: 168px;}
+div.page10_item1{
+	position: absolute;
+	top: 57px;
+	left: 121px;
+	right: 0px;
+width: 783px;height: 100px;}
+div.page11_item1{
+	position: absolute;
+	top: 41px;
+	left: 84px;
+	right: 0px;
+width: 161px;height: 72px;}
+div.page11_item2{
+	position: absolute;
+	top: 117px;
+	left: 109px;
+	right: 0px;
+width: 830px;height: 98px;}
+div.page11_item3{
+	position: absolute;
+	top: 820px;
+	left: 68px;
+	right: 0px;
+width: 918px;height: 102px;}
+div.page13_item1{
+	position: absolute;
+	top: 85px;
+	left: 92px;
+	right: 0px;
+width: 916px;height: 171px;}
+div.page14_item1{
+	position: absolute;
+	top: 702px;
+	left: 78px;
+	right: 0px;
+width: 159px;height: 69px;}
+div.page14_item2{
+	position: absolute;
+	top: 775px;
+	left: 86px;
+	right: 0px;
+width: 917px;height: 135px;}
+div.page15_item1{
+	position: absolute;
+	top: 86px;
+	left: 66px;
+	right: 0px;
+width: 844px;height: 104px;}
+div.page15_item2{
+	position: absolute;
+	top: 220px;
+	left: 190px;
+	right: 0px;
+width: 574px;height: 30px;}
+div.page15_item3{
+	position: absolute;
+	top: 392px;
+	left: 345px;
+	right: 0px;
+width: 588px;height: 65px;}
+div.page15_item4{
+	position: absolute;
+	top: 797px;
+	left: 162px;
+	right: 0px;
+width: 640px;height: 60px;}
+div.page16_item1{
+	position: absolute;
+	top: 86px;
+	left: 44px;
+	right: 0px;
+width: 931px;height: 132px;}
+div.page17_item1{
+	position: absolute;
+	top: 209px;
+	left: 93px;
+	right: 0px;
+width: 895px;height: 102px;}
+div.page18_item1{
+	position: absolute;
+	top: 774px;
+	left: 177px;
+	right: 0px;
+width: 759px;height: 142px;}
+div.page19_item1{
+	position: absolute;
+	top: 86px;
+	left: 84px;
+	right: 0px;
+width: 903px;height: 95px;}
+div.page19_item2{
+	position: absolute;
+	top: 180px;
+	left: 566px;
+	right: 0px;
+width: 314px;height: 75px;}
+div.page20_item1{
+	position: absolute;
+	top: 67px;
+	left: 91px;
+	right: 0px;
+width: 163px;height: 59px;}
+div.page20_item2{
+	position: absolute;
+	top: 130px;
+	left: 92px;
+	right: 0px;
+width: 903px;height: 168px;}
+div.page22_item1{
+	position: absolute;
+	top: 85px;
+	left: 93px;
+	right: 0px;
+width: 890px;height: 96px;}
+div.page23_item1{
+	position: absolute;
+	top: 86px;
+	left: 129px;
+	right: 0px;
+width: 502px;height: 63px;}
+div.page23_item2{
+	position: absolute;
+	top: 307px;
+	left: 129px;
+	right: 0px;
+width: 481px;height: 95px;}
+div.page23_item3{
+	position: absolute;
+	top: 810px;
+	left: 93px;
+	right: 0px;
+width: 763px;height: 102px;}
+div.page24_item1{
+	position: absolute;
+	top: 86px;
+	left: 93px;
+	right: 0px;
+width: 942px;height: 104px;}
+div.page26_item1{
+	position: absolute;
+	top: 85px;
+	left: 93px;
+	right: 0px;
+width: 888px;height: 134px;}
+div.page28_item1{
+	position: absolute;
+	top: 197px;
+	left: 314px;
+	right: 0px;
+width: 369px;height: 143px;}
+div.page28_item2{
+	position: absolute;
+	top: 896px;
+	left: 763px;
+	right: 0px;
+width: 209px;height: 18px;}
+@font-face
+{
+  font-family: "Arial";
+  src: url(../fonts/Arial.ttf);
+}
+@font-face
+{
+  font-family: "AvenirNextLTPro-Light";
+  src: url(../fonts/AvenirNextLTPro-Light.otf);
+}
+@font-face
+{
+  font-family: "AvenirNextLTProBoldCn";
+  src: url(../fonts/AvenirNextLTProBoldCn.otf);
+}
+@font-face
+{
+  font-family: "CenturyOldStyleStd-Italic";
+  src: url(../fonts/CenturyOldStyleStd-Italic.otf);
+}
+@font-face
+{
+  font-family: "CenturyOldStyleStd-Regular";
+  src: url(../fonts/CenturyOldStyleStd-Regular.otf);
+}
+@font-face
+{
+  font-family: "MonsterFontsHouseofDeath";
+  src: url(../fonts/MonsterFontsHouseofDeath.otf);
+}
+span.arial
+{
+  font-family: "Arial";
+}
+.media-overlay-active {
+ color:#f00 !important;
+ padding-bottom:10px;
+ }
+.media-overlay-active span.dc,
+.media-overlay-active span.big,
+.media-overlay-active span.big2
+{ color:#f00 !important;}
+span.small
+{
+	font-size: 19px;
+}

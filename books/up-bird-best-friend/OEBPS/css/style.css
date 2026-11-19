@@ -1,0 +1,374 @@
+img{z-index:-1;}
+
+body {
+	width: 707px;
+	height: 1060px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 707px;
+	height: 1060px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 285px;
+	left: 0px;
+	right: 0px;
+}
+div.page2_item2{
+	position: absolute;
+	top: 783px;
+	left: 88px;
+	right: 0px;
+	width:530px;
+}
+div.page3_item1{
+	position: absolute;
+	top: 785px;
+	left: 0px;
+	right: 0px;
+}
+div.page3_item2{
+	position: absolute;
+	top: 984px;
+	left: 280px;
+	right: 0px;
+}
+div.page4_item1{
+	position: absolute;
+	top: 728px;
+	left: 114px;
+	right: 0px;
+}
+div.page5_item1{
+	position: absolute;
+	top: 728px;
+	left: 90px;
+	right: 0px;
+}
+div.page7_item1{
+	position: absolute;
+	top: 68px;
+	left: 90px;
+	right: 0px;
+}
+div.page8_item1{
+	position: absolute;
+	top: 68px;
+	left: 112px;
+	right: 0px;
+width: 550px;height: 394px;}
+div.page9_item1{
+	position: absolute;
+	top: 666px;
+	left: 112px;
+	right: 0px;
+width: 496px;height: 228px;}
+div.page10_item1{
+	position: absolute;
+	top: 68px;
+	left: 113px;
+	right: 0px;
+width: 379px;height: 317px;}
+div.page11_item1{
+	position: absolute;
+	top: 651px;
+	left: 110px;
+	right: 0px;
+width: 427px;height: 249px;}
+div.page13_item1{
+	position: absolute;
+	top: 68px;
+	left: 110px;
+	right: 0px;
+width: 417px;height: 302px;}
+div.page14_item1{
+	position: absolute;
+	top: 68px;
+	left: 112px;
+	right: 0px;
+width: 503px;height: 274px;}
+div.page15_item1{
+	position: absolute;
+	top: 633px;
+	left: 110px;
+	right: 0px;
+width: 446px;height: 250px;}
+div.page16_item1{
+	position: absolute;
+	top: 58px;
+	left: 112px;
+	right: 0px;
+width: 419px;height: 175px;}
+div.page17_item1{
+	position: absolute;
+	top: 667px;
+	left: 112px;
+	right: 0px;
+width: 409px;height: 247px;}
+div.page19_item1{
+	position: absolute;
+	top: 729px;
+	left: 112px;
+	right: 0px;
+width: 493px;height: 185px;}
+div.page20_item1{
+	position: absolute;
+	top: 68px;
+	left: 111px;
+	right: 0px;
+width: 378px;height: 319px;}
+div.page22_item1{
+	position: absolute;
+	top: 68px;
+	left: 111px;
+	right: 0px;
+width: 514px;height: 198px;}
+div.page23_item1{
+	position: absolute;
+	top: 592px;
+	left: 112px;
+	right: 0px;
+width: 485px;height: 326px;}
+div.page25_item1{
+	position: absolute;
+	top: 763px;
+	left: 112px;
+	right: 0px;
+width: 555px;height: 153px;}
+div.page26_item1{
+	position: absolute;
+	top: 68px;
+	left: 114px;
+	right: 0px;
+width: 456px;height: 157px;}
+div.page27_item1{
+	position: absolute;
+	top: 722px;
+	left: 112px;
+	right: 0px;
+width: 388px;height: 173px;}
+div.page29_item1{
+	position: absolute;
+	top: 702px;
+	left: 90px;
+	right: 0px;
+width: 484px;height: 204px;}
+div.page30_item1{
+	position: absolute;
+	top: 68px;
+	left: 112px;
+	right: 0px;
+width: 545px;height: 171px;}
+div.page32_item1{
+	position: absolute;
+	top: 69px;
+	left: 112px;
+	right: 0px;
+width: 446px;height: 237px;}
+div.page34_item1{
+	position: absolute;
+	top: 417px;
+	left: 40px;
+	right: 0px;
+}
+div.page34_item2{
+	position: absolute;
+	top: 578px;
+	left: 147px;
+	right: 0px;
+}
+div.page34_item3{
+	position: absolute;
+	top: 657px;
+	left: 147px;
+	right: 0px;
+}
+div.page34_item4{
+	position: absolute;
+	top: 751px;
+	left: 147px;
+	right: 0px;
+}
+div.page34_item5{
+	position: absolute;
+	top: 838px;
+	left: 147px;
+	right: 0px;
+}
+
+
+@font-face
+{
+  font-family: "Arial";
+  src: url(../fonts/Arial.ttf);
+}
+@font-face
+{
+  font-family: "CenturyOSMTStd-Italic";
+  src: url(../fonts/CenturyOSMTStd-Italic.ttf);
+}
+
+@font-face
+{
+  font-family: "CenturyOSMTStd";
+  src: url(../fonts/CenturyOSMTStd.ttf);
+}
+
+@font-face
+{
+  font-family: "TriplexBold";
+  src: url(../fonts/TriplexBold.ttf);
+}
+
+@font-face
+{
+  font-family: "TriplexExtraBold";
+  src: url(../fonts/TriplexExtraBold.ttf);
+}
+
+@font-face
+{
+  font-family: "TriplexLight";
+  src: url(../fonts/TriplexLight.ttf);
+}
+
+
+p.dedication{
+	font-family: "CenturyOSMTStd-Italic";
+	font-size: 25px;
+	line-height: 29px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.copy{
+	font-family: "CenturyOSMTStd";
+	font-size: 16px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 18px;
+}
+
+p.title{
+	font-family: "CenturyOSMTStd";
+	font-size: 23px;
+	line-height: 35px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+span.arialp
+{
+font-family: "Arial";
+}
+p.subtitle{
+	font-family: "CenturyOSMTStd";
+	font-size: 15px;
+	line-height: 15px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.nonindent{
+	font-family: "CenturyOSMTStd";
+	font-size: 49px;
+	line-height: 78px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 7px;
+	margin-bottom: 0px;
+}
+
+p.head{
+	color:#FFFFFF;
+	font-size: 33px;
+	line-height: 33px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	font-family:"TriplexBold";
+}
+
+p.text{
+	color:#FFFFFF;
+	font-size: 22px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"TriplexLight";
+}
+
+p.subhead{
+	color:#FFFFFF;
+	font-size: 25px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 4px;
+	font-family:"TriplexExtraBold";
+}
+
+p.subtext{
+	color:#FFFFFF;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"TriplexLight";
+	margin-left:10px;
+	text-indent:-10px;
+}
+span.sp
+{
+letter-spacing:-4px;
+}
+
+.media-overlay-active { color:#f00 !important; }

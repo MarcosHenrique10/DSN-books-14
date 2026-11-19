@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="15845ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Up -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="15845ms" clipEnd="16835ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Bird's -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16835ms" clipEnd="17325ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Best -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="17325ms" clipEnd="17755ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Friend -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="17755ms" clipEnd="18715ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- By -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="18715ms" clipEnd="18965ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Apple -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="18965ms" clipEnd="19305ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Jordan -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19305ms" clipEnd="20775ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="20775ms" clipEnd="21425ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- by -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="21425ms" clipEnd="21595ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Caroline -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="21595ms" clipEnd="22265ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Egan -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="22265ms" clipEnd="23085ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Olga -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="23085ms" clipEnd="23365ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Mosqueda -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="23365ms" clipEnd="24485ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Elena -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="24485ms" clipEnd="24805ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Naggi -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="24805ms" clipEnd="25645ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- and -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="25645ms" clipEnd="25765ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- Scott -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="25765ms" clipEnd="26145ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Tilley -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="26145ms" clipEnd="26595ms" src="../audio/9781484752005.m4a"/>
+    </par>
+    <par id="id18g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="26595ms" clipEnd="27617ms" src="../audio/9781484752005.m4a"/>
+    </par>
+  </body>
+</smil>
