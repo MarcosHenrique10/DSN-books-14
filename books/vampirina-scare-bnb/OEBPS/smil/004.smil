@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id23g">
+			<!--  -->
+			<text src="../004.xhtml#empty"/>
+			<audio clipBegin="16545ms" clipEnd="18187ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- This -->
+			<text src="../004.xhtml#w23"/>
+			<audio clipBegin="18187ms" clipEnd="18827ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id24">
+			<!-- is -->
+			<text src="../004.xhtml#w24"/>
+			<audio clipBegin="18827ms" clipEnd="19047ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id25">
+			<!-- Vampirina -->
+			<text src="../004.xhtml#w25"/>
+			<audio clipBegin="19047ms" clipEnd="20287ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id26">
+			<!-- Her -->
+			<text src="../004.xhtml#w26"/>
+			<audio clipBegin="20287ms" clipEnd="20427ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- friends -->
+			<text src="../004.xhtml#w27"/>
+			<audio clipBegin="20427ms" clipEnd="20837ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- call -->
+			<text src="../004.xhtml#w28"/>
+			<audio clipBegin="20837ms" clipEnd="21047ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- her -->
+			<text src="../004.xhtml#w29"/>
+			<audio clipBegin="21047ms" clipEnd="21267ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- Vee -->
+			<text src="../004.xhtml#w30"/>
+			<audio clipBegin="21267ms" clipEnd="21617ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id30g">
+			<!--  -->
+			<text src="../004.xhtml#empty1"/>
+			<audio clipBegin="21617ms" clipEnd="22327ms" src="../audio/9781368012690.m4a"/>
+		</par>
+	</body>
+</smil>

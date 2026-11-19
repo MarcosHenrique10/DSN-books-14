@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id346g">
+			<!--  -->
+			<text src="../030.xhtml#empty"/>
+			<audio clipBegin="184427ms" clipEnd="185517ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id346">
+			<!-- Later -->
+			<text src="../030.xhtml#w346"/>
+			<audio clipBegin="185517ms" clipEnd="186057ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id347">
+			<!-- Vee -->
+			<text src="../030.xhtml#w347"/>
+			<audio clipBegin="186057ms" clipEnd="186517ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id348">
+			<!-- and -->
+			<text src="../030.xhtml#w348"/>
+			<audio clipBegin="186517ms" clipEnd="186717ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id349">
+			<!-- Poppy -->
+			<text src="../030.xhtml#w349"/>
+			<audio clipBegin="186717ms" clipEnd="187167ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id350">
+			<!-- hear -->
+			<text src="../030.xhtml#w350"/>
+			<audio clipBegin="187167ms" clipEnd="187557ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id351">
+			<!-- Edna's -->
+			<text src="../030.xhtml#w351"/>
+			<audio clipBegin="187557ms" clipEnd="187957ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id352">
+			<!-- voice -->
+			<text src="../030.xhtml#w352"/>
+			<audio clipBegin="187957ms" clipEnd="188367ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id353">
+			<!-- downstairs -->
+			<text src="../030.xhtml#w353"/>
+			<audio clipBegin="188367ms" clipEnd="189657ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id354">
+			<!-- They -->
+			<text src="../030.xhtml#w354"/>
+			<audio clipBegin="189657ms" clipEnd="189877ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id355">
+			<!-- hear -->
+			<text src="../030.xhtml#w355"/>
+			<audio clipBegin="189877ms" clipEnd="190107ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id356">
+			<!-- vampire -->
+			<text src="../030.xhtml#w356"/>
+			<audio clipBegin="190107ms" clipEnd="190757ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id357">
+			<!-- voices -->
+			<text src="../030.xhtml#w357"/>
+			<audio clipBegin="190757ms" clipEnd="191307ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id358">
+			<!-- too -->
+			<text src="../030.xhtml#w358"/>
+			<audio clipBegin="191307ms" clipEnd="191767ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id358g">
+			<!--  -->
+			<text src="../030.xhtml#empty1"/>
+			<audio clipBegin="191767ms" clipEnd="192467ms" src="../audio/9781368012690.m4a"/>
+		</par>
+	</body>
+</smil>

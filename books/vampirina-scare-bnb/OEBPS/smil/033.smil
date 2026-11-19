@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id391g">
+			<!--  -->
+			<text src="../033.xhtml#empty"/>
+			<audio clipBegin="209317ms" clipEnd="210113ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id391">
+			<!-- The -->
+			<text src="../033.xhtml#w391"/>
+			<audio clipBegin="210113ms" clipEnd="210203ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id392">
+			<!-- next -->
+			<text src="../033.xhtml#w392"/>
+			<audio clipBegin="210203ms" clipEnd="210673ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id393">
+			<!-- day -->
+			<text src="../033.xhtml#w393"/>
+			<audio clipBegin="210673ms" clipEnd="211483ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id394">
+			<!-- Edna -->
+			<text src="../033.xhtml#w394"/>
+			<audio clipBegin="211483ms" clipEnd="211983ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id395">
+			<!-- thanks -->
+			<text src="../033.xhtml#w395"/>
+			<audio clipBegin="211983ms" clipEnd="212333ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id396">
+			<!-- the -->
+			<text src="../033.xhtml#w396"/>
+			<audio clipBegin="212333ms" clipEnd="212443ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id397">
+			<!-- Hauntleys -->
+			<text src="../033.xhtml#w397"/>
+			<audio clipBegin="212443ms" clipEnd="213653ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id398">
+			<!-- I -->
+			<text src="../033.xhtml#w398"/>
+			<audio clipBegin="213653ms" clipEnd="213763ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id399">
+			<!-- liked -->
+			<text src="../033.xhtml#w399"/>
+			<audio clipBegin="213763ms" clipEnd="214043ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id400">
+			<!-- meeting -->
+			<text src="../033.xhtml#w400"/>
+			<audio clipBegin="214043ms" clipEnd="214443ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id401">
+			<!-- those -->
+			<text src="../033.xhtml#w401"/>
+			<audio clipBegin="214443ms" clipEnd="214683ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id402">
+			<!-- sisters -->
+			<text src="../033.xhtml#w402"/>
+			<audio clipBegin="214683ms" clipEnd="215403ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id403">
+			<!-- too -->
+			<text src="../033.xhtml#w403"/>
+			<audio clipBegin="215403ms" clipEnd="216053ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id404">
+			<!-- she -->
+			<text src="../033.xhtml#w404"/>
+			<audio clipBegin="216053ms" clipEnd="216263ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id405">
+			<!-- says -->
+			<text src="../033.xhtml#w405"/>
+			<audio clipBegin="216263ms" clipEnd="216683ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id405g">
+			<!--  -->
+			<text src="../033.xhtml#empty1"/>
+			<audio clipBegin="216683ms" clipEnd="217769ms" src="../audio/9781368012690.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id114g">
+			<!--  -->
+			<text src="../017.xhtml#empty"/>
+			<audio clipBegin="84528ms" clipEnd="85123ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id114">
+			<!-- Vee's -->
+			<text src="../017.xhtml#w114"/>
+			<audio clipBegin="85123ms" clipEnd="85453ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id115">
+			<!-- friends -->
+			<text src="../017.xhtml#w115"/>
+			<audio clipBegin="85453ms" clipEnd="85973ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id116">
+			<!-- see -->
+			<text src="../017.xhtml#w116"/>
+			<audio clipBegin="85973ms" clipEnd="86183ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id117">
+			<!-- a -->
+			<text src="../017.xhtml#w117"/>
+			<audio clipBegin="86183ms" clipEnd="86343ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id118">
+			<!-- mummy -->
+			<text src="../017.xhtml#w118"/>
+			<audio clipBegin="86343ms" clipEnd="87513ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id119">
+			<!-- They -->
+			<text src="../017.xhtml#w119"/>
+			<audio clipBegin="87513ms" clipEnd="87763ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id120">
+			<!-- are -->
+			<text src="../017.xhtml#w120"/>
+			<audio clipBegin="87763ms" clipEnd="87923ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id121">
+			<!-- spooked -->
+			<text src="../017.xhtml#w121"/>
+			<audio clipBegin="87923ms" clipEnd="88723ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id121g">
+			<!--  -->
+			<text src="../017.xhtml#empty1"/>
+			<audio clipBegin="88723ms" clipEnd="88989ms" src="../audio/9781368014557.m4a"/>
+		</par>
+	</body>
+</smil>

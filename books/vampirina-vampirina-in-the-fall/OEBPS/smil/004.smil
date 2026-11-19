@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id19g">
+			<!--  -->
+			<text src="../004.xhtml#empty"/>
+			<audio clipBegin="15032ms" clipEnd="17387ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- Vampirina -->
+			<text src="../004.xhtml#w19"/>
+			<audio clipBegin="17387ms" clipEnd="18187ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- loves -->
+			<text src="../004.xhtml#w20"/>
+			<audio clipBegin="18187ms" clipEnd="18827ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id21">
+			<!-- all -->
+			<text src="../004.xhtml#w21"/>
+			<audio clipBegin="18827ms" clipEnd="19167ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- the -->
+			<text src="../004.xhtml#w22"/>
+			<audio clipBegin="19167ms" clipEnd="19267ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- seasons -->
+			<text src="../004.xhtml#w23"/>
+			<audio clipBegin="19267ms" clipEnd="19937ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id23g">
+			<!--  -->
+			<text src="../004.xhtml#empty1"/>
+			<audio clipBegin="19937ms" clipEnd="20452ms" src="../audio/9781368025157.m4a"/>
+		</par>
+	</body>
+</smil>

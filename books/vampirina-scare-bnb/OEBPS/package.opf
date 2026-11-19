@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="t1">World of Reading: Vampirina: Scare B and B</dc:title>
+	<meta refines="#t1" property="title-type">main</meta>
+	<meta refines="#t1" property="display-seq">1</meta>
+    <dc:publisher>Disney Press</dc:publisher>
+    <dc:creator id="auth1">Disney Book Group</dc:creator>
+    <meta refines="#auth1" property="role" scheme="marc:relators" id="role">oth</meta>
+    <meta refines="#auth1" property="file-as">Disney Book Group</meta>
+    <meta refines="#auth1" property="display-seq">1</meta>
+	<dc:rights>Copyright &#169; &#38; &#8471; 2017 Disney Enterprises, Inc.</dc:rights>
+    <dc:identifier id="bookid">9781368012690</dc:identifier>
+    <dc:language>en</dc:language>
+    <meta property="dcterms:modified">2017-08-12T08:00:00Z</meta>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:spread">auto</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="media:active-class">media-overlay-active</meta>
+    <meta property="media:duration">0:03:91</meta>
+    <meta property="media:duration" refines="#mo-smil002">0:00:00</meta>
+    <meta property="media:duration" refines="#mo-smil003">0:00:14</meta>
+    <meta property="media:duration" refines="#mo-smil004">0:00:02</meta>
+    <meta property="media:duration" refines="#mo-smil005">0:00:08</meta>
+    <meta property="media:duration" refines="#mo-smil006">0:00:16</meta>
+    <meta property="media:duration" refines="#mo-smil007">0:00:08</meta>
+    <meta property="media:duration" refines="#mo-smil008">0:00:04</meta>
+    <meta property="media:duration" refines="#mo-smil009">0:00:04</meta>
+    <meta property="media:duration" refines="#mo-smil010">0:00:07</meta>
+    <meta property="media:duration" refines="#mo-smil011">0:00:06</meta>
+    <meta property="media:duration" refines="#mo-smil012">0:00:05</meta>
+    <meta property="media:duration" refines="#mo-smil013">0:00:09</meta>
+    <meta property="media:duration" refines="#mo-smil014">0:00:09</meta>
+    <meta property="media:duration" refines="#mo-smil015">0:00:05</meta>
+    <meta property="media:duration" refines="#mo-smil016">0:00:02</meta>
+    <meta property="media:duration" refines="#mo-smil017">0:00:06</meta>
+    <meta property="media:duration" refines="#mo-smil018">0:00:04</meta>
+    <meta property="media:duration" refines="#mo-smil019">0:00:09</meta>
+	<meta property="media:duration" refines="#mo-smil020">0:00:06</meta>
+	<meta property="media:duration" refines="#mo-smil021">0:00:09</meta>
+	<meta property="media:duration" refines="#mo-smil022">0:00:06</meta>
+	<meta property="media:duration" refines="#mo-smil023">0:00:09</meta>
+	<meta property="media:duration" refines="#mo-smil024">0:00:07</meta>
+	<meta property="media:duration" refines="#mo-smil025">0:00:08</meta>
+	<meta property="media:duration" refines="#mo-smil026">0:00:07</meta>
+	<meta property="media:duration" refines="#mo-smil027">0:00:09</meta>
+	<meta property="media:duration" refines="#mo-smil028">0:00:07</meta>
+	<meta property="media:duration" refines="#mo-smil029">0:00:05</meta>
+	<meta property="media:duration" refines="#mo-smil030">0:00:07</meta>
+	<meta property="media:duration" refines="#mo-smil031">0:00:08</meta>
+	<meta property="media:duration" refines="#mo-smil032">0:00:02</meta>
+	<meta property="media:duration" refines="#mo-smil033">0:00:10</meta>
+	<meta property="media:duration" refines="#mo-smil034">0:00:18</meta>
+  </metadata>
+	<manifest>
+    <!-- audio -->
+    <item id="audio1" href="audio/9781368012690.m4a" media-type="audio/mpeg"/>
+    <!-- smil -->
+    <item id="mo-smil002" href="smil/002.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil003" href="smil/003.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil004" href="smil/004.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil005" href="smil/005.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil006" href="smil/006.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil007" href="smil/007.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil008" href="smil/008.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil009" href="smil/009.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil010" href="smil/010.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil011" href="smil/011.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil012" href="smil/012.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil013" href="smil/013.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil014" href="smil/014.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil015" href="smil/015.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil016" href="smil/016.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil017" href="smil/017.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil018" href="smil/018.smil" media-type="application/smil+xml"/>
+    <item id="mo-smil019" href="smil/019.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil020" href="smil/020.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil021" href="smil/021.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil022" href="smil/022.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil023" href="smil/023.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil024" href="smil/024.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil025" href="smil/025.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil026" href="smil/026.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil027" href="smil/027.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil028" href="smil/028.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil029" href="smil/029.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil030" href="smil/030.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil031" href="smil/031.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil032" href="smil/032.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil033" href="smil/033.smil" media-type="application/smil+xml"/>
+	<item id="mo-smil034" href="smil/034.smil" media-type="application/smil+xml"/>
+	<!-- supplementary -->
+	<item id="tocx" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	<item id="css" href="css/style.css" media-type="text/css"/>
+	<!-- content -->
+	<item id="d_001" href="001.xhtml" media-type="application/xhtml+xml"/>
+	<item id="d_002" href="002.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil002"/>
+	<item id="d_003" href="003.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil003"/>
+	<item id="d_004" href="004.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil004"/>
+	<item id="d_005" href="005.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil005"/>
+	<item id="d_006" href="006.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil006"/>
+	<item id="d_007" href="007.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil007"/>
+	<item id="d_008" href="008.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil008"/>
+	<item id="d_009" href="009.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil009"/>
+	<item id="d_010" href="010.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil010"/>
+	<item id="d_011" href="011.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil011"/>
+	<item id="d_012" href="012.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil012"/>
+	<item id="d_013" href="013.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil013"/>
+	<item id="d_014" href="014.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil014"/>
+	<item id="d_015" href="015.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil015"/>
+	<item id="d_016" href="016.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil016"/>
+	<item id="d_017" href="017.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil017"/>
+	<item id="d_018" href="018.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil018"/>
+	<item id="d_019" href="019.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil019"/>
+	<item id="d_020" href="020.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil020"/>
+	<item id="d_021" href="021.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil021"/>
+	<item id="d_022" href="022.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil022"/>
+	<item id="d_023" href="023.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil023"/>
+	<item id="d_024" href="024.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil024"/>
+	<item id="d_025" href="025.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil025"/>
+	<item id="d_026" href="026.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil026"/>
+	<item id="d_027" href="027.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil027"/>
+	<item id="d_028" href="028.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil028"/>
+	<item id="d_029" href="029.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil029"/>
+	<item id="d_030" href="030.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil030"/>
+	<item id="d_031" href="031.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil031"/>
+	<item id="d_032" href="032.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil032"/>
+	<item id="d_033" href="033.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil033"/>
+	<item id="d_034" href="034.xhtml" media-type="application/xhtml+xml" media-overlay="mo-smil034"/>
+	<item id="d_035" href="035.xhtml" media-type="application/xhtml+xml"/>
+	<item id="d_036" href="036.xhtml" media-type="application/xhtml+xml"/>
+	<item properties="cover-image" id="my_cover_image" href="images/001.jpg" media-type="image/jpeg"/>
+	<item id="m_m_002" href="images/002.jpg" media-type="image/jpeg"/>
+	<item id="m_m_003" href="images/003.jpg" media-type="image/jpeg"/>
+	<item id="m_m_004" href="images/004.jpg" media-type="image/jpeg"/>
+	<item id="m_m_005" href="images/005.jpg" media-type="image/jpeg"/>
+	<item id="m_m_006" href="images/006.jpg" media-type="image/jpeg"/>
+	<item id="m_m_007" href="images/007.jpg" media-type="image/jpeg"/>
+	<item id="m_m_008" href="images/008.jpg" media-type="image/jpeg"/>
+	<item id="m_m_009" href="images/009.jpg" media-type="image/jpeg"/>
+	<item id="m_m_010" href="images/010.jpg" media-type="image/jpeg"/>
+	<item id="m_m_011" href="images/011.jpg" media-type="image/jpeg"/>
+	<item id="m_m_012" href="images/012.jpg" media-type="image/jpeg"/>
+	<item id="m_m_013" href="images/013.jpg" media-type="image/jpeg"/>
+	<item id="m_m_014" href="images/014.jpg" media-type="image/jpeg"/>
+	<item id="m_m_015" href="images/015.jpg" media-type="image/jpeg"/>
+	<item id="m_m_016" href="images/016.jpg" media-type="image/jpeg"/>
+	<item id="m_m_017" href="images/017.jpg" media-type="image/jpeg"/>
+	<item id="m_m_018" href="images/018.jpg" media-type="image/jpeg"/>
+	<item id="m_m_019" href="images/019.jpg" media-type="image/jpeg"/>
+	<item id="m_m_020" href="images/020.jpg" media-type="image/jpeg"/>
+	<item id="m_m_021" href="images/021.jpg" media-type="image/jpeg"/>
+	<item id="m_m_022" href="images/022.jpg" media-type="image/jpeg"/>
+	<item id="m_m_023" href="images/023.jpg" media-type="image/jpeg"/>
+	<item id="m_m_024" href="images/024.jpg" media-type="image/jpeg"/>
+	<item id="m_m_025" href="images/025.jpg" media-type="image/jpeg"/>
+	<item id="m_m_026" href="images/026.jpg" media-type="image/jpeg"/>
+	<item id="m_m_027" href="images/027.jpg" media-type="image/jpeg"/>
+	<item id="m_m_028" href="images/028.jpg" media-type="image/jpeg"/>
+	<item id="m_m_029" href="images/029.jpg" media-type="image/jpeg"/>
+	<item id="m_m_030" href="images/030.jpg" media-type="image/jpeg"/>
+	<item id="m_m_031" href="images/031.jpg" media-type="image/jpeg"/>
+	<item id="m_m_032" href="images/032.jpg" media-type="image/jpeg"/>
+	<item id="m_m_033" href="images/033.jpg" media-type="image/jpeg"/>
+	<item id="m_m_034" href="images/034.jpg" media-type="image/jpeg"/>
+	<item id="m_m_035" href="images/035.jpg" media-type="image/jpeg"/>
+	<item id="m_m_036a" href="images/036.jpg" media-type="image/jpeg"/>
+	<!-- fonts -->
+		<item id="font1" href="fonts/Arial.ttf" media-type="application/vnd.ms-opentype"/>
+		<item id="font2" href="fonts/CenturyOldStyleStdBold.otf" media-type="application/vnd.ms-opentype"/>
+		<item id="font3" href="fonts/CenturyOldStyleStdRegular.otf" media-type="application/vnd.ms-opentype"/>
+		<item id="font4" href="fonts/NeutrafaceTextBold.otf" media-type="application/vnd.ms-opentype"/>
+		<item id="font5" href="fonts/NeutrafaceTextBook.otf" media-type="application/vnd.ms-opentype"/>
+		<item id="font6" href="fonts/VAGRoundedLTProBold.otf" media-type="application/vnd.ms-opentype"/>
+	</manifest>
+	<spine>
+	<itemref idref="d_001" linear="yes"/>
+	<itemref idref="d_002" linear="yes"/>
+	<itemref idref="d_003" linear="yes"/>
+	<itemref idref="d_004" linear="yes"/>
+	<itemref idref="d_005" linear="yes"/>
+	<itemref idref="d_006" linear="yes"/>
+	<itemref idref="d_007" linear="yes"/>
+	<itemref idref="d_008" linear="yes"/>
+	<itemref idref="d_009" linear="yes"/>
+	<itemref idref="d_010" linear="yes"/>
+	<itemref idref="d_011" linear="yes"/>
+	<itemref idref="d_012" linear="yes"/>
+	<itemref idref="d_013" linear="yes"/>
+	<itemref idref="d_014" linear="yes"/>
+	<itemref idref="d_015" linear="yes"/>
+	<itemref idref="d_016" linear="yes"/>
+	<itemref idref="d_017" linear="yes"/>
+	<itemref idref="d_018" linear="yes"/>
+	<itemref idref="d_019" linear="yes"/>
+	<itemref idref="d_020" linear="yes"/>
+	<itemref idref="d_021" linear="yes"/>
+	<itemref idref="d_022" linear="yes"/>
+	<itemref idref="d_023" linear="yes"/>
+	<itemref idref="d_024" linear="yes"/>
+	<itemref idref="d_025" linear="yes"/>
+	<itemref idref="d_026" linear="yes"/>
+	<itemref idref="d_027" linear="yes"/>
+	<itemref idref="d_028" linear="yes"/>
+	<itemref idref="d_029" linear="yes"/>
+	<itemref idref="d_030" linear="yes"/>
+	<itemref idref="d_031" linear="yes"/>
+	<itemref idref="d_032" linear="yes"/>
+	<itemref idref="d_033" linear="yes"/>
+	<itemref idref="d_034" linear="yes"/>
+	<itemref idref="d_035" linear="yes"/>
+	<itemref idref="d_036" linear="yes"/>
+	</spine>
+	</package>

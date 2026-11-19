@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id214g">
+			<!--  -->
+			<text src="../030.xhtml#empty"/>
+			<audio clipBegin="136812ms" clipEnd="137847ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id214">
+			<!-- Fall -->
+			<text src="../030.xhtml#w214"/>
+			<audio clipBegin="137847ms" clipEnd="138307ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id215">
+			<!-- is -->
+			<text src="../030.xhtml#w215"/>
+			<audio clipBegin="138307ms" clipEnd="138507ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id216">
+			<!-- also -->
+			<text src="../030.xhtml#w216"/>
+			<audio clipBegin="138507ms" clipEnd="139017ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id217">
+			<!-- for -->
+			<text src="../030.xhtml#w217"/>
+			<audio clipBegin="139017ms" clipEnd="139217ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id218">
+			<!-- Fangsgiving -->
+			<text src="../030.xhtml#w218"/>
+			<audio clipBegin="139217ms" clipEnd="140827ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id219">
+			<!-- Chef -->
+			<text src="../030.xhtml#w219"/>
+			<audio clipBegin="140827ms" clipEnd="141267ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id220">
+			<!-- Remy -->
+			<text src="../030.xhtml#w220"/>
+			<audio clipBegin="141267ms" clipEnd="141567ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id221">
+			<!-- Bones -->
+			<text src="../030.xhtml#w221"/>
+			<audio clipBegin="141567ms" clipEnd="142197ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id222">
+			<!-- cooks -->
+			<text src="../030.xhtml#w222"/>
+			<audio clipBegin="142197ms" clipEnd="142627ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id223">
+			<!-- for -->
+			<text src="../030.xhtml#w223"/>
+			<audio clipBegin="142627ms" clipEnd="142967ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id224">
+			<!-- days -->
+			<text src="../030.xhtml#w224"/>
+			<audio clipBegin="142967ms" clipEnd="143447ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id225">
+			<!-- and -->
+			<text src="../030.xhtml#w225"/>
+			<audio clipBegin="143447ms" clipEnd="143717ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id226">
+			<!-- days -->
+			<text src="../030.xhtml#w226"/>
+			<audio clipBegin="143717ms" clipEnd="144327ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id226g">
+			<!--  -->
+			<text src="../030.xhtml#empty1"/>
+			<audio clipBegin="144327ms" clipEnd="144585ms" src="../audio/9781368025157.m4a"/>
+		</par>
+	</body>
+</smil>

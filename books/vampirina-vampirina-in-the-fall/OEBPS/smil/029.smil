@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id196g">
+			<!--  -->
+			<text src="../029.xhtml#empty"/>
+			<audio clipBegin="127665ms" clipEnd="127927ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id196">
+			<!-- Vee's -->
+			<text src="../029.xhtml#w196"/>
+			<audio clipBegin="127927ms" clipEnd="128267ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id197">
+			<!-- friends -->
+			<text src="../029.xhtml#w197"/>
+			<audio clipBegin="128267ms" clipEnd="128857ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id198">
+			<!-- dress -->
+			<text src="../029.xhtml#w198"/>
+			<audio clipBegin="128857ms" clipEnd="129247ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id199">
+			<!-- up -->
+			<text src="../029.xhtml#w199"/>
+			<audio clipBegin="129247ms" clipEnd="129537ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id200">
+			<!-- in -->
+			<text src="../029.xhtml#w200"/>
+			<audio clipBegin="129537ms" clipEnd="129677ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id201">
+			<!-- Halloween -->
+			<text src="../029.xhtml#w201"/>
+			<audio clipBegin="129677ms" clipEnd="130257ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id202">
+			<!-- costumes -->
+			<text src="../029.xhtml#w202"/>
+			<audio clipBegin="130257ms" clipEnd="131507ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id203">
+			<!-- But -->
+			<text src="../029.xhtml#w203"/>
+			<audio clipBegin="131507ms" clipEnd="131637ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id204">
+			<!-- Vampirina -->
+			<text src="../029.xhtml#w204"/>
+			<audio clipBegin="131637ms" clipEnd="132427ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id205">
+			<!-- does -->
+			<text src="../029.xhtml#w205"/>
+			<audio clipBegin="132427ms" clipEnd="132717ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id206">
+			<!-- not -->
+			<text src="../029.xhtml#w206"/>
+			<audio clipBegin="132717ms" clipEnd="132997ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id207">
+			<!-- need -->
+			<text src="../029.xhtml#w207"/>
+			<audio clipBegin="132997ms" clipEnd="133287ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id208">
+			<!-- one -->
+			<text src="../029.xhtml#w208"/>
+			<audio clipBegin="133287ms" clipEnd="134027ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id209">
+			<!-- She -->
+			<text src="../029.xhtml#w209"/>
+			<audio clipBegin="134027ms" clipEnd="134307ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id210">
+			<!-- gets -->
+			<text src="../029.xhtml#w210"/>
+			<audio clipBegin="134307ms" clipEnd="134597ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id211">
+			<!-- to -->
+			<text src="../029.xhtml#w211"/>
+			<audio clipBegin="134597ms" clipEnd="134697ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id212">
+			<!-- be -->
+			<text src="../029.xhtml#w212"/>
+			<audio clipBegin="134697ms" clipEnd="134947ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id213">
+			<!-- herself -->
+			<text src="../029.xhtml#w213"/>
+			<audio clipBegin="134947ms" clipEnd="135777ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id213g">
+			<!--  -->
+			<text src="../029.xhtml#empty1"/>
+			<audio clipBegin="135777ms" clipEnd="136812ms" src="../audio/9781368025157.m4a"/>
+		</par>
+	</body>
+</smil>

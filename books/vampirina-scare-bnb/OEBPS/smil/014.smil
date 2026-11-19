@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id142g">
+			<!--  -->
+			<text src="../014.xhtml#empty"/>
+			<audio clipBegin="76017ms" clipEnd="77117ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id142">
+			<!-- Vampire -->
+			<text src="../014.xhtml#w142"/>
+			<audio clipBegin="77117ms" clipEnd="77867ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id143">
+			<!-- sisters -->
+			<text src="../014.xhtml#w143"/>
+			<audio clipBegin="77867ms" clipEnd="78497ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id144">
+			<!-- show -->
+			<text src="../014.xhtml#w144"/>
+			<audio clipBegin="78497ms" clipEnd="78707ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id145">
+			<!-- up -->
+			<text src="../014.xhtml#w145"/>
+			<audio clipBegin="78707ms" clipEnd="78867ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id146">
+			<!-- next -->
+			<text src="../014.xhtml#w146"/>
+			<audio clipBegin="78867ms" clipEnd="79407ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id146g">
+			<!--  -->
+			<text src="../014.xhtml#empty1"/>
+			<audio clipBegin="79407ms" clipEnd="80142ms" src="../audio/9781368012690.m4a"/>
+		</par>
+	</body>
+</smil>

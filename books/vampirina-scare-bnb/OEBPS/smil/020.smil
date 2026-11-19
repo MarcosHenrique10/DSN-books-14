@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id227g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="120517ms" clipEnd="121557ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id227">
+			<!-- The -->
+			<text src="../020.xhtml#w227"/>
+			<audio clipBegin="121557ms" clipEnd="121747ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id228">
+			<!-- vampire -->
+			<text src="../020.xhtml#w228"/>
+			<audio clipBegin="121747ms" clipEnd="122337ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id229">
+			<!-- sisters -->
+			<text src="../020.xhtml#w229"/>
+			<audio clipBegin="122337ms" clipEnd="122907ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id230">
+			<!-- get -->
+			<text src="../020.xhtml#w230"/>
+			<audio clipBegin="122907ms" clipEnd="123097ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id231">
+			<!-- ready -->
+			<text src="../020.xhtml#w231"/>
+			<audio clipBegin="123097ms" clipEnd="123467ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id232">
+			<!-- for -->
+			<text src="../020.xhtml#w232"/>
+			<audio clipBegin="123467ms" clipEnd="123577ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id233">
+			<!-- bed -->
+			<text src="../020.xhtml#w233"/>
+			<audio clipBegin="123577ms" clipEnd="124457ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id234">
+			<!-- They -->
+			<text src="../020.xhtml#w234"/>
+			<audio clipBegin="124457ms" clipEnd="124587ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id235">
+			<!-- brush -->
+			<text src="../020.xhtml#w235"/>
+			<audio clipBegin="124587ms" clipEnd="125057ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id236">
+			<!-- their -->
+			<text src="../020.xhtml#w236"/>
+			<audio clipBegin="125057ms" clipEnd="125317ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id237">
+			<!-- fangs -->
+			<text src="../020.xhtml#w237"/>
+			<audio clipBegin="125317ms" clipEnd="125867ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id237g">
+			<!--  -->
+			<text src="../020.xhtml#empty1"/>
+			<audio clipBegin="125867ms" clipEnd="126522ms" src="../audio/9781368012690.m4a"/>
+		</par>
+	</body>
+</smil>

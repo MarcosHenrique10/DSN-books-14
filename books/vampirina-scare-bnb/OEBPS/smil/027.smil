@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id289g">
+			<!--  -->
+			<text src="../027.xhtml#empty"/>
+			<audio clipBegin="158122ms" clipEnd="158687ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id289">
+			<!-- One -->
+			<text src="../027.xhtml#w289"/>
+			<audio clipBegin="158687ms" clipEnd="158937ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id290">
+			<!-- of -->
+			<text src="../027.xhtml#w290"/>
+			<audio clipBegin="158937ms" clipEnd="159027ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id291">
+			<!-- the -->
+			<text src="../027.xhtml#w291"/>
+			<audio clipBegin="159027ms" clipEnd="159167ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id292">
+			<!-- sisters -->
+			<text src="../027.xhtml#w292"/>
+			<audio clipBegin="159167ms" clipEnd="159837ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id293">
+			<!-- flies -->
+			<text src="../027.xhtml#w293"/>
+			<audio clipBegin="159837ms" clipEnd="160337ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id294">
+			<!-- into -->
+			<text src="../027.xhtml#w294"/>
+			<audio clipBegin="160337ms" clipEnd="160527ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id295">
+			<!-- the -->
+			<text src="../027.xhtml#w295"/>
+			<audio clipBegin="160527ms" clipEnd="160607ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id296">
+			<!-- kitchen -->
+			<text src="../027.xhtml#w296"/>
+			<audio clipBegin="160607ms" clipEnd="161617ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id297">
+			<!-- She -->
+			<text src="../027.xhtml#w297"/>
+			<audio clipBegin="161617ms" clipEnd="161827ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id298">
+			<!-- wants -->
+			<text src="../027.xhtml#w298"/>
+			<audio clipBegin="161827ms" clipEnd="162127ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id299">
+			<!-- a -->
+			<text src="../027.xhtml#w299"/>
+			<audio clipBegin="162127ms" clipEnd="162187ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id300">
+			<!-- bedtime -->
+			<text src="../027.xhtml#w300"/>
+			<audio clipBegin="162187ms" clipEnd="162787ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id301">
+			<!-- snack -->
+			<text src="../027.xhtml#w301"/>
+			<audio clipBegin="162787ms" clipEnd="163487ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id301g">
+			<!--  -->
+			<text src="../027.xhtml#empty1"/>
+			<audio clipBegin="163487ms" clipEnd="164562ms" src="../audio/9781368012690.m4a"/>
+		</par>
+	</body>
+</smil>

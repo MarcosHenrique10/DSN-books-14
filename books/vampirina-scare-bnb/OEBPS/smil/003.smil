@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="5876ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="5876ms" clipEnd="6386ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- by -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="6386ms" clipEnd="6559ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Chelsea -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="6559ms" clipEnd="7257ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Beyl -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="7257ms" clipEnd="8256ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Based -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="8256ms" clipEnd="8526ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- on -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="8526ms" clipEnd="8656ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- the -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="8656ms" clipEnd="8716ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- episode -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="8716ms" clipEnd="9266ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- written -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="9266ms" clipEnd="9736ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- by -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="9736ms" clipEnd="9946ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Jeff -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="9946ms" clipEnd="10226ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- King -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="10226ms" clipEnd="11073ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="11073ms" clipEnd="11703ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- by -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="11703ms" clipEnd="11833ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- Imaginism -->
+			<text src="../003.xhtml#w15"/>
+			<audio clipBegin="11833ms" clipEnd="12533ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- Studio -->
+			<text src="../003.xhtml#w16"/>
+			<audio clipBegin="12533ms" clipEnd="13193ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- and -->
+			<text src="../003.xhtml#w17"/>
+			<audio clipBegin="13193ms" clipEnd="13323ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- the -->
+			<text src="../003.xhtml#w18"/>
+			<audio clipBegin="13323ms" clipEnd="13403ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- Disney -->
+			<text src="../003.xhtml#w19"/>
+			<audio clipBegin="13403ms" clipEnd="13843ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w20"/>
+			<audio clipBegin="13843ms" clipEnd="14383ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id21">
+			<!-- Art -->
+			<text src="../003.xhtml#w21"/>
+			<audio clipBegin="14383ms" clipEnd="14553ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- Team -->
+			<text src="../003.xhtml#w22"/>
+			<audio clipBegin="14553ms" clipEnd="14903ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id22g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="14903ms" clipEnd="16545ms" src="../audio/9781368012690.m4a"/>
+		</par>
+	</body>
+</smil>

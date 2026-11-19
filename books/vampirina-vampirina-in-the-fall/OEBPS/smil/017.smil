@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id107g">
+			<!--  -->
+			<text src="../017.xhtml#empty"/>
+			<audio clipBegin="74397ms" clipEnd="74947ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id107">
+			<!-- It -->
+			<text src="../017.xhtml#w107"/>
+			<audio clipBegin="74947ms" clipEnd="75047ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id108">
+			<!-- reminds -->
+			<text src="../017.xhtml#w108"/>
+			<audio clipBegin="75047ms" clipEnd="75647ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id109">
+			<!-- Vee -->
+			<text src="../017.xhtml#w109"/>
+			<audio clipBegin="75647ms" clipEnd="76007ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id110">
+			<!-- of -->
+			<text src="../017.xhtml#w110"/>
+			<audio clipBegin="76007ms" clipEnd="76417ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id111">
+			<!-- eerie -->
+			<text src="../017.xhtml#w111"/>
+			<audio clipBegin="76417ms" clipEnd="77067ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id112">
+			<!-- nights -->
+			<text src="../017.xhtml#w112"/>
+			<audio clipBegin="77067ms" clipEnd="77617ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id113">
+			<!-- in -->
+			<text src="../017.xhtml#w113"/>
+			<audio clipBegin="77617ms" clipEnd="77747ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id114">
+			<!-- Transylvania -->
+			<text src="../017.xhtml#w114"/>
+			<audio clipBegin="77747ms" clipEnd="78847ms" src="../audio/9781368025157.m4a"/>
+		</par>
+		<par id="id114g">
+			<!--  -->
+			<text src="../017.xhtml#empty1"/>
+			<audio clipBegin="78847ms" clipEnd="79907ms" src="../audio/9781368025157.m4a"/>
+		</par>
+	</body>
+</smil>

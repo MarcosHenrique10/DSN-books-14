@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id199g">
+			<!--  -->
+			<text src="../018.xhtml#empty"/>
+			<audio clipBegin="104662ms" clipEnd="105747ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id199">
+			<!-- The -->
+			<text src="../018.xhtml#w199"/>
+			<audio clipBegin="105747ms" clipEnd="105907ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id200">
+			<!-- vampires -->
+			<text src="../018.xhtml#w200"/>
+			<audio clipBegin="105907ms" clipEnd="106647ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id201">
+			<!-- are -->
+			<text src="../018.xhtml#w201"/>
+			<audio clipBegin="106647ms" clipEnd="106767ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id202">
+			<!-- ready -->
+			<text src="../018.xhtml#w202"/>
+			<audio clipBegin="106767ms" clipEnd="107157ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id203">
+			<!-- for -->
+			<text src="../018.xhtml#w203"/>
+			<audio clipBegin="107157ms" clipEnd="107297ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id204">
+			<!-- bed -->
+			<text src="../018.xhtml#w204"/>
+			<audio clipBegin="107297ms" clipEnd="108147ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id205">
+			<!-- Poppy's -->
+			<text src="../018.xhtml#w205"/>
+			<audio clipBegin="108147ms" clipEnd="108617ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id206">
+			<!-- family -->
+			<text src="../018.xhtml#w206"/>
+			<audio clipBegin="108617ms" clipEnd="109007ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id207">
+			<!-- leaves -->
+			<text src="../018.xhtml#w207"/>
+			<audio clipBegin="109007ms" clipEnd="110067ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id208">
+			<!-- Vee -->
+			<text src="../018.xhtml#w208"/>
+			<audio clipBegin="110067ms" clipEnd="110297ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id209">
+			<!-- brings -->
+			<text src="../018.xhtml#w209"/>
+			<audio clipBegin="110297ms" clipEnd="110617ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id210">
+			<!-- the -->
+			<text src="../018.xhtml#w210"/>
+			<audio clipBegin="110617ms" clipEnd="110727ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id211">
+			<!-- sisters -->
+			<text src="../018.xhtml#w211"/>
+			<audio clipBegin="110727ms" clipEnd="111217ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id212">
+			<!-- in -->
+			<text src="../018.xhtml#w212"/>
+			<audio clipBegin="111217ms" clipEnd="111517ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id212g">
+			<!--  -->
+			<text src="../018.xhtml#empty1"/>
+			<audio clipBegin="111517ms" clipEnd="112097ms" src="../audio/9781368012690.m4a"/>
+		</par>
+	</body>
+</smil>

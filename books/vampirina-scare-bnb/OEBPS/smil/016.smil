@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id165g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="86952ms" clipEnd="88067ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id165">
+			<!-- Now -->
+			<text src="../016.xhtml#w165"/>
+			<audio clipBegin="88067ms" clipEnd="88497ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id166">
+			<!-- the -->
+			<text src="../016.xhtml#w166"/>
+			<audio clipBegin="88497ms" clipEnd="88627ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id167">
+			<!-- Hauntleys -->
+			<text src="../016.xhtml#w167"/>
+			<audio clipBegin="88627ms" clipEnd="89187ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id168">
+			<!-- have -->
+			<text src="../016.xhtml#w168"/>
+			<audio clipBegin="89187ms" clipEnd="89387ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id169">
+			<!-- humans -->
+			<text src="../016.xhtml#w169"/>
+			<audio clipBegin="89387ms" clipEnd="90107ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id170">
+			<!-- and -->
+			<text src="../016.xhtml#w170"/>
+			<audio clipBegin="90107ms" clipEnd="90327ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id171">
+			<!-- vampires -->
+			<text src="../016.xhtml#w171"/>
+			<audio clipBegin="90327ms" clipEnd="91477ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id172">
+			<!-- but -->
+			<text src="../016.xhtml#w172"/>
+			<audio clipBegin="91477ms" clipEnd="91727ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id173">
+			<!-- only -->
+			<text src="../016.xhtml#w173"/>
+			<audio clipBegin="91727ms" clipEnd="92037ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id174">
+			<!-- one -->
+			<text src="../016.xhtml#w174"/>
+			<audio clipBegin="92037ms" clipEnd="92377ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id175">
+			<!-- room -->
+			<text src="../016.xhtml#w175"/>
+			<audio clipBegin="92377ms" clipEnd="93497ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id176">
+			<!-- What -->
+			<text src="../016.xhtml#w176"/>
+			<audio clipBegin="93497ms" clipEnd="93757ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id177">
+			<!-- will -->
+			<text src="../016.xhtml#w177"/>
+			<audio clipBegin="93757ms" clipEnd="93897ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id178">
+			<!-- they -->
+			<text src="../016.xhtml#w178"/>
+			<audio clipBegin="93897ms" clipEnd="94047ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id179">
+			<!-- do -->
+			<text src="../016.xhtml#w179"/>
+			<audio clipBegin="94047ms" clipEnd="94457ms" src="../audio/9781368012690.m4a"/>
+		</par>
+		<par id="id179g">
+			<!--  -->
+			<text src="../016.xhtml#empty1"/>
+			<audio clipBegin="94457ms" clipEnd="95097ms" src="../audio/9781368012690.m4a"/>
+		</par>
+	</body>
+</smil>

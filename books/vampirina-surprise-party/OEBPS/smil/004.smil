@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id26g">
+			<!--  -->
+			<text src="../004.xhtml#empty"/>
+			<audio clipBegin="24167ms" clipEnd="25263ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id26">
+			<!-- Vampirina -->
+			<text src="../004.xhtml#w26"/>
+			<audio clipBegin="25263ms" clipEnd="26113ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- is -->
+			<text src="../004.xhtml#w27"/>
+			<audio clipBegin="26113ms" clipEnd="26383ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- having -->
+			<text src="../004.xhtml#w28"/>
+			<audio clipBegin="26383ms" clipEnd="26643ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- a -->
+			<text src="../004.xhtml#w29"/>
+			<audio clipBegin="26643ms" clipEnd="26693ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- party -->
+			<text src="../004.xhtml#w30"/>
+			<audio clipBegin="26693ms" clipEnd="27734ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id31">
+			<!-- It -->
+			<text src="../004.xhtml#w31"/>
+			<audio clipBegin="27734ms" clipEnd="27883ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id32">
+			<!-- is -->
+			<text src="../004.xhtml#w32"/>
+			<audio clipBegin="27883ms" clipEnd="28023ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id33">
+			<!-- a -->
+			<text src="../004.xhtml#w33"/>
+			<audio clipBegin="28023ms" clipEnd="28103ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id34">
+			<!-- surprise -->
+			<text src="../004.xhtml#w34"/>
+			<audio clipBegin="28103ms" clipEnd="29413ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id35">
+			<!-- Demi -->
+			<text src="../004.xhtml#w35"/>
+			<audio clipBegin="29413ms" clipEnd="29873ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id36">
+			<!-- invites -->
+			<text src="../004.xhtml#w36"/>
+			<audio clipBegin="29873ms" clipEnd="30413ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id37">
+			<!-- Vee's -->
+			<text src="../004.xhtml#w37"/>
+			<audio clipBegin="30413ms" clipEnd="31003ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id38">
+			<!-- friends -->
+			<text src="../004.xhtml#w38"/>
+			<audio clipBegin="31003ms" clipEnd="31523ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id38g">
+			<!--  -->
+			<text src="../004.xhtml#empty1"/>
+			<audio clipBegin="31523ms" clipEnd="31787ms" src="../audio/9781368014557.m4a"/>
+		</par>
+	</body>
+</smil>

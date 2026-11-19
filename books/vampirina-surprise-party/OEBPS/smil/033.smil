@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id240g">
+			<!--  -->
+			<text src="../033.xhtml#empty"/>
+			<audio clipBegin="163708ms" clipEnd="163993ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id240">
+			<!-- Vee's -->
+			<text src="../033.xhtml#w240"/>
+			<audio clipBegin="163993ms" clipEnd="164453ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id241">
+			<!-- friends -->
+			<text src="../033.xhtml#w241"/>
+			<audio clipBegin="164453ms" clipEnd="164943ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id242">
+			<!-- are -->
+			<text src="../033.xhtml#w242"/>
+			<audio clipBegin="164943ms" clipEnd="165053ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id243">
+			<!-- not -->
+			<text src="../033.xhtml#w243"/>
+			<audio clipBegin="165053ms" clipEnd="165313ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id244">
+			<!-- spooked -->
+			<text src="../033.xhtml#w244"/>
+			<audio clipBegin="165313ms" clipEnd="166083ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id245">
+			<!-- anymore -->
+			<text src="../033.xhtml#w245"/>
+			<audio clipBegin="166083ms" clipEnd="167313ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id246">
+			<!-- Edgar -->
+			<text src="../033.xhtml#w246"/>
+			<audio clipBegin="167313ms" clipEnd="167633ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id247">
+			<!-- told -->
+			<text src="../033.xhtml#w247"/>
+			<audio clipBegin="167633ms" clipEnd="167993ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id248">
+			<!-- them -->
+			<text src="../033.xhtml#w248"/>
+			<audio clipBegin="167993ms" clipEnd="168123ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id249">
+			<!-- the -->
+			<text src="../033.xhtml#w249"/>
+			<audio clipBegin="168123ms" clipEnd="168223ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id250">
+			<!-- spooky -->
+			<text src="../033.xhtml#w250"/>
+			<audio clipBegin="168223ms" clipEnd="168703ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id251">
+			<!-- surprises -->
+			<text src="../033.xhtml#w251"/>
+			<audio clipBegin="168703ms" clipEnd="169373ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id252">
+			<!-- were -->
+			<text src="../033.xhtml#w252"/>
+			<audio clipBegin="169373ms" clipEnd="169513ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id253">
+			<!-- fake -->
+			<text src="../033.xhtml#w253"/>
+			<audio clipBegin="169513ms" clipEnd="169973ms" src="../audio/9781368014557.m4a"/>
+		</par>
+		<par id="id253g">
+			<!--  -->
+			<text src="../033.xhtml#empty1"/>
+			<audio clipBegin="169973ms" clipEnd="171008ms" src="../audio/9781368014557.m4a"/>
+		</par>
+	</body>
+</smil>
