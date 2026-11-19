@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id84g">
+      <!--  -->
+      <text src="../016.xhtml#empty"/>
+      <audio clipBegin="54247ms" clipEnd="55174ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id84">
+      <!-- Rex -->
+      <text src="../016.xhtml#w84"/>
+      <audio clipBegin="55174ms" clipEnd="55644ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id85">
+      <!-- and -->
+      <text src="../016.xhtml#w85"/>
+      <audio clipBegin="55644ms" clipEnd="55784ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id86">
+      <!-- Trixie -->
+      <text src="../016.xhtml#w86"/>
+      <audio clipBegin="55784ms" clipEnd="56334ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id87">
+      <!-- play -->
+      <text src="../016.xhtml#w87"/>
+      <audio clipBegin="56334ms" clipEnd="56734ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id88">
+      <!-- a -->
+      <text src="../016.xhtml#w88"/>
+      <audio clipBegin="56734ms" clipEnd="56774ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id89">
+      <!-- game -->
+      <text src="../016.xhtml#w89"/>
+      <audio clipBegin="56774ms" clipEnd="57214ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id89g">
+      <!--  -->
+      <text src="../016.xhtml#empty"/>
+      <audio clipBegin="57214ms" clipEnd="57669ms" src="../audio/9781423195733.m4a"/>
+    </par>
+  </body>
+</smil>

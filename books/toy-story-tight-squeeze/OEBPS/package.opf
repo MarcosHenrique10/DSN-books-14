@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="t1">Toy Story: A Tight Squeeze</dc:title>
+	<meta refines="#t1" property="title-type">main</meta>
+	<meta refines="#t1" property="display-seq">1</meta>
+    <dc:publisher>Disney Press</dc:publisher>
+    <dc:creator id="auth1">Disney Book Group</dc:creator>
+    <meta refines="#auth1" property="role" scheme="marc:relators" id="role">oth</meta>
+    <meta refines="#auth1" property="file-as">Disney Book Group</meta>
+    <meta refines="#auth1" property="display-seq">1</meta>
+	<dc:rights>Copyright &#169; &#38; &#8471; 2015 Disney Enterprises, Inc.</dc:rights>
+    <dc:identifier id="bookid">9781484749326</dc:identifier>
+    <dc:language>en</dc:language>
+    <meta property="dcterms:modified">2015-06-22T14:00:00Z</meta>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:spread">auto</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="media:active-class">media-overlay-active</meta>
+    <meta property="media:duration">0:10:53</meta>
+	<meta property="media:duration" refines="#smil002">0:00:00</meta>
+    <meta property="media:duration" refines="#smil003">0:00:25</meta>
+    <meta property="media:duration" refines="#smil004">0:00:21</meta>
+    <meta property="media:duration" refines="#smil005">0:00:24</meta>
+    <meta property="media:duration" refines="#smil006">0:00:29</meta>
+    <meta property="media:duration" refines="#smil007">0:00:27</meta>
+    <meta property="media:duration" refines="#smil008">0:00:25</meta>
+    <meta property="media:duration" refines="#smil009">0:00:26</meta>
+    <meta property="media:duration" refines="#smil010">0:00:18</meta>
+    <meta property="media:duration" refines="#smil011">0:00:27</meta>
+    <meta property="media:duration" refines="#smil012">0:00:24</meta>
+    <meta property="media:duration" refines="#smil013">0:00:20</meta>
+    <meta property="media:duration" refines="#smil014">0:00:17</meta>
+  </metadata>
+	<manifest>
+    <!-- audio -->
+    <item id="audio1" href="audio/9781484749326.m4a" media-type="audio/mpeg"/>
+    <!-- smil -->
+	<item id="smil002" href="smil/002.smil" media-type="application/smil+xml"/>
+    <item id="smil003" href="smil/003.smil" media-type="application/smil+xml"/>
+    <item id="smil004" href="smil/004.smil" media-type="application/smil+xml"/>
+    <item id="smil005" href="smil/005.smil" media-type="application/smil+xml"/>
+    <item id="smil006" href="smil/006.smil" media-type="application/smil+xml"/>
+    <item id="smil007" href="smil/007.smil" media-type="application/smil+xml"/>
+    <item id="smil008" href="smil/008.smil" media-type="application/smil+xml"/>
+    <item id="smil009" href="smil/009.smil" media-type="application/smil+xml"/>
+    <item id="smil010" href="smil/010.smil" media-type="application/smil+xml"/>
+    <item id="smil011" href="smil/011.smil" media-type="application/smil+xml"/>
+    <item id="smil012" href="smil/012.smil" media-type="application/smil+xml"/>
+    <item id="smil013" href="smil/013.smil" media-type="application/smil+xml"/>
+    <item id="smil014" href="smil/014.smil" media-type="application/smil+xml"/>
+
+	<!-- supplementary -->
+	<item id="tocx" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	<item id="css" href="css/style.css" media-type="text/css"/>
+	<!-- content -->
+	<item id="d_001" href="001.xhtml" media-type="application/xhtml+xml"/>
+	<item id="d_002" href="002.xhtml" media-type="application/xhtml+xml" media-overlay="smil002"/>
+	<item id="d_003" href="003.xhtml" media-type="application/xhtml+xml" media-overlay="smil003"/>
+	<item id="d_004" href="004.xhtml" media-type="application/xhtml+xml" media-overlay="smil004"/>
+	<item id="d_005" href="005.xhtml" media-type="application/xhtml+xml" media-overlay="smil005"/>
+	<item id="d_006" href="006.xhtml" media-type="application/xhtml+xml" media-overlay="smil006"/>
+	<item id="d_007" href="007.xhtml" media-type="application/xhtml+xml" media-overlay="smil007"/>
+	<item id="d_008" href="008.xhtml" media-type="application/xhtml+xml" media-overlay="smil008"/>
+	<item id="d_009" href="009.xhtml" media-type="application/xhtml+xml" media-overlay="smil009"/>
+	<item id="d_010" href="010.xhtml" media-type="application/xhtml+xml" media-overlay="smil010"/>
+	<item id="d_011" href="011.xhtml" media-type="application/xhtml+xml" media-overlay="smil011"/>
+	<item id="d_012" href="012.xhtml" media-type="application/xhtml+xml" media-overlay="smil012"/>
+	<item id="d_013" href="013.xhtml" media-type="application/xhtml+xml" media-overlay="smil013"/>
+	<item id="d_014" href="014.xhtml" media-type="application/xhtml+xml" media-overlay="smil014"/>
+	<item id="d_015" href="015.xhtml" media-type="application/xhtml+xml"/>
+	<item id="d_016" href="016.xhtml" media-type="application/xhtml+xml"/>
+	<item properties="cover-image" id="my_cover_image" href="images/001.jpg" media-type="image/jpeg"/>
+	<item id="m_m_002" href="images/002.jpg" media-type="image/jpeg"/>
+	<item id="m_m_003" href="images/003.jpg" media-type="image/jpeg"/>
+	<item id="m_m_004" href="images/004.jpg" media-type="image/jpeg"/>
+	<item id="m_m_005" href="images/005.jpg" media-type="image/jpeg"/>
+	<item id="m_m_006" href="images/006.jpg" media-type="image/jpeg"/>
+	<item id="m_m_007" href="images/007.jpg" media-type="image/jpeg"/>
+	<item id="m_m_008" href="images/008.jpg" media-type="image/jpeg"/>
+	<item id="m_m_009" href="images/009.jpg" media-type="image/jpeg"/>
+	<item id="m_m_010" href="images/010.jpg" media-type="image/jpeg"/>
+	<item id="m_m_011" href="images/011.jpg" media-type="image/jpeg"/>
+	<item id="m_m_012" href="images/012.jpg" media-type="image/jpeg"/>
+	<item id="m_m_013" href="images/013.jpg" media-type="image/jpeg"/>
+	<item id="m_m_014" href="images/014.jpg" media-type="image/jpeg"/>
+	<item id="m_m_015" href="images/015.jpg" media-type="image/jpeg"/>
+	<item id="m_m_016" href="images/016.jpg" media-type="image/jpeg"/>
+	<!-- fonts -->
+		<item id="font0" href="fonts/arial.ttf" media-type="application/x-font-ttf"/>
+		<item id="font1" href="fonts/Avenir.ttf" media-type="application/x-font-ttf"/>
+		<item id="font2" href="fonts/AvenirBookOblique.ttf" media-type="application/x-font-ttf"/>
+		<item id="font3" href="fonts/Times.ttf" media-type="application/x-font-ttf"/>
+	</manifest>
+	<spine>
+	<itemref idref="d_001" linear="yes"/>
+	<itemref idref="d_002" linear="yes"/>
+	<itemref idref="d_003" linear="yes"/>
+	<itemref idref="d_004" linear="yes"/>
+	<itemref idref="d_005" linear="yes"/>
+	<itemref idref="d_006" linear="yes"/>
+	<itemref idref="d_007" linear="yes"/>
+	<itemref idref="d_008" linear="yes"/>
+	<itemref idref="d_009" linear="yes"/>
+	<itemref idref="d_010" linear="yes"/>
+	<itemref idref="d_011" linear="yes"/>
+	<itemref idref="d_012" linear="yes"/>
+	<itemref idref="d_013" linear="yes"/>
+	<itemref idref="d_014" linear="yes"/>
+	<itemref idref="d_015" linear="yes"/>
+	<itemref idref="d_016" linear="yes"/>
+	</spine>
+	</package>

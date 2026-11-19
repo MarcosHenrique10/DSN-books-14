@@ -1,0 +1,195 @@
+img{z-index:-1;}body {
+	width: 765px;
+	height: 979px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 765px;
+	height: 979px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 686px;
+	left: 0px;
+	right: 0px;
+}
+div.page3_item1{
+	position: absolute;
+	top: 47px;
+	left: 88px;
+	right: 0px;
+width: 576px;height: 238px;}
+div.page5_item1{
+	position: absolute;
+	top: 238px;
+	left: 234px;
+	right: 0px;
+width: 488px;height: 513px;}
+div.page6_item1{
+	position: absolute;
+	top: 775px;
+	left: 67px;
+	right: 0px;
+width: 622px;height: 146px;}
+div.page7_item1{
+	position: absolute;
+	top: 775px;
+	left: 73px;
+	right: 0px;
+width: 648px;height: 118px;}
+div.page9_item1{
+	position: absolute;
+	top: 43px;
+	left: 76px;
+	right: 0px;
+width: 608px;height: 255px;}
+div.page11_item1{
+	position: absolute;
+	top: 60px;
+	left: 227px;
+	right: 0px;
+width: 517px;height: 456px;}
+div.page13_item1{
+	position: absolute;
+	top: 268px;
+	left: 204px;
+	right: 0px;
+width: 483px;height: 461px;}
+div.page14_item1{
+	position: absolute;
+	top: 53px;
+	left: 94px;
+	right: 0px;
+width: 609px;height: 271px;}
+div.page14_item2{
+	position: absolute;
+	top: 777px;
+	left: 94px;
+	right: 0px;
+width: 593px;height: 117px;}
+
+@font-face
+{
+  font-family: "arial";
+  src: url(../fonts/arial.ttf);
+}
+
+@font-face
+{
+  font-family: "Avenir";
+  src: url(../fonts/Avenir.ttf);
+}
+
+@font-face
+{
+  font-family: "AvenirBookOblique";
+  src: url(../fonts/AvenirBookOblique.ttf);
+}
+
+@font-face
+{
+  font-family: "Times";
+  src: url(../fonts/Times.ttf);
+}
+
+span.arialp
+{
+font-family: "arial";
+}
+span.italic
+{
+font-family: "AvenirBookOblique";
+}
+
+p.copy{
+	font-family: "Times";
+	font-size: 13px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 22px;
+}
+.white
+{
+color:#FFFFFF;
+}
+p.indent{
+	font-family: "Avenir";
+	font-size: 21px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.left1
+{
+margin-left:5px;
+}
+.left2
+{
+margin-left:37px;
+}
+.left3
+{
+margin-left:68px;
+}
+.left4
+{
+margin-left:101px;
+}
+.left5
+{
+margin-left:133px;
+}
+.left6
+{
+margin-left:165px;
+}
+.left7
+{
+margin-left:196px;
+}
+.left8
+{
+margin-left:229px;
+}
+.left9
+{
+margin-left:260px;
+}
+
+.media-overlay-active { color:#f00 !important; }

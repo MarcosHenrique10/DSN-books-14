@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id96g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="60965ms" clipEnd="61964ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id96">
+      <!-- Dolly -->
+      <text src="../018.xhtml#w96"/>
+      <audio clipBegin="61964ms" clipEnd="62424ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id97">
+      <!-- has -->
+      <text src="../018.xhtml#w97"/>
+      <audio clipBegin="62424ms" clipEnd="62674ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id98">
+      <!-- a -->
+      <text src="../018.xhtml#w98"/>
+      <audio clipBegin="62674ms" clipEnd="62724ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id99">
+      <!-- tea -->
+      <text src="../018.xhtml#w99"/>
+      <audio clipBegin="62724ms" clipEnd="62944ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id100">
+      <!-- party -->
+      <text src="../018.xhtml#w100"/>
+      <audio clipBegin="62944ms" clipEnd="63304ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id100g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="63304ms" clipEnd="63544ms" src="../audio/9781423195733.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id20g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="22294ms" clipEnd="22504ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- Bonnie -->
+      <text src="../005.xhtml#w20"/>
+      <audio clipBegin="22504ms" clipEnd="22894ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- finds -->
+      <text src="../005.xhtml#w21"/>
+      <audio clipBegin="22894ms" clipEnd="23224ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- an -->
+      <text src="../005.xhtml#w22"/>
+      <audio clipBegin="23224ms" clipEnd="23294ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- Easter -->
+      <text src="../005.xhtml#w23"/>
+      <audio clipBegin="23294ms" clipEnd="23594ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- basket -->
+      <text src="../005.xhtml#w24"/>
+      <audio clipBegin="23594ms" clipEnd="24104ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id24g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="24104ms" clipEnd="24732ms" src="../audio/9781423195733.m4a"/>
+    </par>
+  </body>
+</smil>

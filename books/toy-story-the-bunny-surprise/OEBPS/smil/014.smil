@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id72g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="47903ms" clipEnd="48664ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id72">
+      <!-- Mr -->
+      <text src="../014.xhtml#w72"/>
+      <audio clipBegin="48664ms" clipEnd="49064ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id73">
+      <!-- Pricklepants -->
+      <text src="../014.xhtml#w73"/>
+      <audio clipBegin="49064ms" clipEnd="49714ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id74">
+      <!-- sings -->
+      <text src="../014.xhtml#w74"/>
+      <audio clipBegin="49714ms" clipEnd="50144ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id75">
+      <!-- and -->
+      <text src="../014.xhtml#w75"/>
+      <audio clipBegin="50144ms" clipEnd="50244ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id76">
+      <!-- dances -->
+      <text src="../014.xhtml#w76"/>
+      <audio clipBegin="50244ms" clipEnd="50854ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id76g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="50854ms" clipEnd="51199ms" src="../audio/9781423195733.m4a"/>
+    </par>
+  </body>
+</smil>

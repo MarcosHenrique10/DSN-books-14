@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id31g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="27809ms" clipEnd="28164ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- Candy -->
+      <text src="../007.xhtml#w31"/>
+      <audio clipBegin="28164ms" clipEnd="29004ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- eggs -->
+      <text src="../007.xhtml#w32"/>
+      <audio clipBegin="29004ms" clipEnd="29654ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id33">
+      <!-- and -->
+      <text src="../007.xhtml#w33"/>
+      <audio clipBegin="29654ms" clipEnd="29744ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- jelly -->
+      <text src="../007.xhtml#w34"/>
+      <audio clipBegin="29744ms" clipEnd="30084ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- beans -->
+      <text src="../007.xhtml#w35"/>
+      <audio clipBegin="30084ms" clipEnd="30544ms" src="../audio/9781423195733.m4a"/>
+    </par>
+    <par id="id35g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="30544ms" clipEnd="31245ms" src="../audio/9781423195733.m4a"/>
+    </par>
+  </body>
+</smil>
