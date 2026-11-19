@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id213g">
+      <!--  -->
+      <text src="../026.xhtml#empty"/>
+      <audio clipBegin="119386ms" clipEnd="120225ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id213">
+      <!-- The -->
+      <text src="../026.xhtml#w213"/>
+      <audio clipBegin="120225ms" clipEnd="120305ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id214">
+      <!-- toys -->
+      <text src="../026.xhtml#w214"/>
+      <audio clipBegin="120305ms" clipEnd="120905ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id215">
+      <!-- gather -->
+      <text src="../026.xhtml#w215"/>
+      <audio clipBegin="120905ms" clipEnd="121425ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id216">
+      <!-- by -->
+      <text src="../026.xhtml#w216"/>
+      <audio clipBegin="121425ms" clipEnd="121685ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id217">
+      <!-- the -->
+      <text src="../026.xhtml#w217"/>
+      <audio clipBegin="121685ms" clipEnd="121795ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id218">
+      <!-- Christmas -->
+      <text src="../026.xhtml#w218"/>
+      <audio clipBegin="121795ms" clipEnd="122295ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id219">
+      <!-- tree -->
+      <text src="../026.xhtml#w219"/>
+      <audio clipBegin="122295ms" clipEnd="122635ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id219g">
+      <!--  -->
+      <text src="../026.xhtml#empty"/>
+      <audio clipBegin="122635ms" clipEnd="123345ms" src="../audio/9781484703250.m4a"/>
+    </par>
+  </body>
+</smil>

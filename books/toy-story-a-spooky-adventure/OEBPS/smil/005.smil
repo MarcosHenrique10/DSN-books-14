@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id27g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="25723ms" clipEnd="26158ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- Bonnie's -->
+      <text src="../005.xhtml#w27"/>
+      <audio clipBegin="26158ms" clipEnd="26618ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- favorite -->
+      <text src="../005.xhtml#w28"/>
+      <audio clipBegin="26618ms" clipEnd="27018ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- game -->
+      <text src="../005.xhtml#w29"/>
+      <audio clipBegin="27018ms" clipEnd="27368ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- was -->
+      <text src="../005.xhtml#w30"/>
+      <audio clipBegin="27368ms" clipEnd="27578ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- Bakery -->
+      <text src="../005.xhtml#w31"/>
+      <audio clipBegin="27578ms" clipEnd="28608ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- But -->
+      <text src="../005.xhtml#w32"/>
+      <audio clipBegin="28608ms" clipEnd="28718ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id33">
+      <!-- her -->
+      <text src="../005.xhtml#w33"/>
+      <audio clipBegin="28718ms" clipEnd="28878ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- bakery -->
+      <text src="../005.xhtml#w34"/>
+      <audio clipBegin="28878ms" clipEnd="29508ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- was -->
+      <text src="../005.xhtml#w35"/>
+      <audio clipBegin="29508ms" clipEnd="29818ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id36">
+      <!-- spooky -->
+      <text src="../005.xhtml#w36"/>
+      <audio clipBegin="29818ms" clipEnd="30508ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id36g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="30508ms" clipEnd="31433ms" src="../audio/9781423103236.m4a"/>
+    </par>
+  </body>
+</smil>

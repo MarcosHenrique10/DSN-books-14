@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id156g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="89720ms" clipEnd="90265ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id156">
+      <!-- Buzz -->
+      <text src="../019.xhtml#w156"/>
+      <audio clipBegin="90265ms" clipEnd="90575ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id157">
+      <!-- tells -->
+      <text src="../019.xhtml#w157"/>
+      <audio clipBegin="90575ms" clipEnd="90925ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id158">
+      <!-- Woody -->
+      <text src="../019.xhtml#w158"/>
+      <audio clipBegin="90925ms" clipEnd="91325ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id159">
+      <!-- that -->
+      <text src="../019.xhtml#w159"/>
+      <audio clipBegin="91325ms" clipEnd="91455ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id160">
+      <!-- his -->
+      <text src="../019.xhtml#w160"/>
+      <audio clipBegin="91455ms" clipEnd="91735ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id161">
+      <!-- friends -->
+      <text src="../019.xhtml#w161"/>
+      <audio clipBegin="91735ms" clipEnd="92115ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id162">
+      <!-- have -->
+      <text src="../019.xhtml#w162"/>
+      <audio clipBegin="92115ms" clipEnd="92255ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id163">
+      <!-- a -->
+      <text src="../019.xhtml#w163"/>
+      <audio clipBegin="92255ms" clipEnd="92285ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id164">
+      <!-- Christmas -->
+      <text src="../019.xhtml#w164"/>
+      <audio clipBegin="92285ms" clipEnd="92895ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id165">
+      <!-- surprise -->
+      <text src="../019.xhtml#w165"/>
+      <audio clipBegin="92895ms" clipEnd="94762ms" src="../audio/9781484703250.m4a"/>
+    </par>
+  </body>
+</smil>

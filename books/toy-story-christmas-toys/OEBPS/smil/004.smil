@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id15g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="20808ms" clipEnd="21585ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Andy -->
+      <text src="../004.xhtml#w15"/>
+      <audio clipBegin="21585ms" clipEnd="21885ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- plays -->
+      <text src="../004.xhtml#w16"/>
+      <audio clipBegin="21885ms" clipEnd="22375ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- with -->
+      <text src="../004.xhtml#w17"/>
+      <audio clipBegin="22375ms" clipEnd="22615ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Buzz -->
+      <text src="../004.xhtml#w18"/>
+      <audio clipBegin="22615ms" clipEnd="23085ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- Lightyear -->
+      <text src="../004.xhtml#w19"/>
+      <audio clipBegin="23085ms" clipEnd="23725ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- and -->
+      <text src="../004.xhtml#w20"/>
+      <audio clipBegin="23725ms" clipEnd="23915ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- Sheriff -->
+      <text src="../004.xhtml#w21"/>
+      <audio clipBegin="23915ms" clipEnd="24545ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- Woody -->
+      <text src="../004.xhtml#w22"/>
+      <audio clipBegin="24545ms" clipEnd="24865ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id22g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="24865ms" clipEnd="25360ms" src="../audio/9781484703250.m4a"/>
+    </par>
+  </body>
+</smil>

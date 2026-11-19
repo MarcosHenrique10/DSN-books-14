@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id226g">
+      <!--  -->
+      <text src="../025.xhtml#empty"/>
+      <audio clipBegin="131323ms" clipEnd="131788ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id226">
+      <!-- But -->
+      <text src="../025.xhtml#w226"/>
+      <audio clipBegin="131788ms" clipEnd="131908ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id227">
+      <!-- Woody -->
+      <text src="../025.xhtml#w227"/>
+      <audio clipBegin="131908ms" clipEnd="132308ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id228">
+      <!-- was -->
+      <text src="../025.xhtml#w228"/>
+      <audio clipBegin="132308ms" clipEnd="132588ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id229">
+      <!-- not -->
+      <text src="../025.xhtml#w229"/>
+      <audio clipBegin="132588ms" clipEnd="133068ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id230">
+      <!-- worried -->
+      <text src="../025.xhtml#w230"/>
+      <audio clipBegin="133068ms" clipEnd="133538ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id230g">
+      <!--  -->
+      <text src="../025.xhtml#empty"/>
+      <audio clipBegin="133538ms" clipEnd="134478ms" src="../audio/9781423103236.m4a"/>
+    </par>
+  </body>
+</smil>

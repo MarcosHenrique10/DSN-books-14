@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id123g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="76788ms" clipEnd="77708ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id123">
+      <!-- Trixie -->
+      <text src="../014.xhtml#w123"/>
+      <audio clipBegin="77708ms" clipEnd="78108ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id124">
+      <!-- showed -->
+      <text src="../014.xhtml#w124"/>
+      <audio clipBegin="78108ms" clipEnd="78468ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id125">
+      <!-- Rex -->
+      <text src="../014.xhtml#w125"/>
+      <audio clipBegin="78468ms" clipEnd="78918ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id126">
+      <!-- the -->
+      <text src="../014.xhtml#w126"/>
+      <audio clipBegin="78918ms" clipEnd="79028ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id127">
+      <!-- monsters -->
+      <text src="../014.xhtml#w127"/>
+      <audio clipBegin="79028ms" clipEnd="80268ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id128">
+      <!-- They -->
+      <text src="../014.xhtml#w128"/>
+      <audio clipBegin="80268ms" clipEnd="80508ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id129">
+      <!-- were -->
+      <text src="../014.xhtml#w129"/>
+      <audio clipBegin="80508ms" clipEnd="80708ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id130">
+      <!-- Bonnie's -->
+      <text src="../014.xhtml#w130"/>
+      <audio clipBegin="80708ms" clipEnd="81298ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id131">
+      <!-- bunny -->
+      <text src="../014.xhtml#w131"/>
+      <audio clipBegin="81298ms" clipEnd="81648ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id132">
+      <!-- slippers -->
+      <text src="../014.xhtml#w132"/>
+      <audio clipBegin="81648ms" clipEnd="82298ms" src="../audio/9781423103236.m4a"/>
+    </par>
+  </body>
+</smil>

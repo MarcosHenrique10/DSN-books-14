@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id166">
+      <!-- Slinky -->
+      <text src="../021.xhtml#w166"/>
+      <audio clipBegin="95635ms" clipEnd="96235ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id167">
+      <!-- shows -->
+      <text src="../021.xhtml#w167"/>
+      <audio clipBegin="96235ms" clipEnd="96605ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id168">
+      <!-- Woody -->
+      <text src="../021.xhtml#w168"/>
+      <audio clipBegin="96605ms" clipEnd="97045ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id169">
+      <!-- a -->
+      <text src="../021.xhtml#w169"/>
+      <audio clipBegin="97045ms" clipEnd="97105ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id170">
+      <!-- Christmas -->
+      <text src="../021.xhtml#w170"/>
+      <audio clipBegin="97105ms" clipEnd="97705ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id171">
+      <!-- tree -->
+      <text src="../021.xhtml#w171"/>
+      <audio clipBegin="97705ms" clipEnd="97945ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id172">
+      <!-- made -->
+      <text src="../021.xhtml#w172"/>
+      <audio clipBegin="97945ms" clipEnd="98515ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id173">
+      <!-- of -->
+      <text src="../021.xhtml#w173"/>
+      <audio clipBegin="98515ms" clipEnd="98705ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id174">
+      <!-- cotton -->
+      <text src="../021.xhtml#w174"/>
+      <audio clipBegin="98705ms" clipEnd="99065ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id175">
+      <!-- balls -->
+      <text src="../021.xhtml#w175"/>
+      <audio clipBegin="99065ms" clipEnd="100315ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id176">
+      <!-- The -->
+      <text src="../021.xhtml#w176"/>
+      <audio clipBegin="100315ms" clipEnd="100515ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id177">
+      <!-- Aliens -->
+      <text src="../021.xhtml#w177"/>
+      <audio clipBegin="100515ms" clipEnd="101035ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id178">
+      <!-- hang -->
+      <text src="../021.xhtml#w178"/>
+      <audio clipBegin="101035ms" clipEnd="101295ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id179">
+      <!-- buttons -->
+      <text src="../021.xhtml#w179"/>
+      <audio clipBegin="101295ms" clipEnd="102805ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id180">
+      <!-- The -->
+      <text src="../021.xhtml#w180"/>
+      <audio clipBegin="102805ms" clipEnd="102875ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id181">
+      <!-- Green -->
+      <text src="../021.xhtml#w181"/>
+      <audio clipBegin="102875ms" clipEnd="103425ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id182">
+      <!-- Army -->
+      <text src="../021.xhtml#w182"/>
+      <audio clipBegin="103425ms" clipEnd="103705ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id183">
+      <!-- Men -->
+      <text src="../021.xhtml#w183"/>
+      <audio clipBegin="103705ms" clipEnd="103905ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id184">
+      <!-- make -->
+      <text src="../021.xhtml#w184"/>
+      <audio clipBegin="103905ms" clipEnd="104195ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id185">
+      <!-- snowflakes -->
+      <text src="../021.xhtml#w185"/>
+      <audio clipBegin="104195ms" clipEnd="104995ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id186">
+      <!-- out -->
+      <text src="../021.xhtml#w186"/>
+      <audio clipBegin="104995ms" clipEnd="105105ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id187">
+      <!-- of -->
+      <text src="../021.xhtml#w187"/>
+      <audio clipBegin="105105ms" clipEnd="105225ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id188">
+      <!-- jacks -->
+      <text src="../021.xhtml#w188"/>
+      <audio clipBegin="105225ms" clipEnd="105905ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id188g">
+      <!--  -->
+      <text src="../021.xhtml#empty"/>
+      <audio clipBegin="105905ms" clipEnd="106785ms" src="../audio/9781484703250.m4a"/>
+    </par>
+  </body>
+</smil>

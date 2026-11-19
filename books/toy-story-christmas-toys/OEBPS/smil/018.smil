@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id148g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="84772ms" clipEnd="85615ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id148">
+      <!-- It -->
+      <text src="../018.xhtml#w148"/>
+      <audio clipBegin="85615ms" clipEnd="85725ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id149">
+      <!-- is -->
+      <text src="../018.xhtml#w149"/>
+      <audio clipBegin="85725ms" clipEnd="85945ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id150">
+      <!-- Christmas -->
+      <text src="../018.xhtml#w150"/>
+      <audio clipBegin="85945ms" clipEnd="86625ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id151">
+      <!-- Eve -->
+      <text src="../018.xhtml#w151"/>
+      <audio clipBegin="86625ms" clipEnd="87565ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id152">
+      <!-- Woody -->
+      <text src="../018.xhtml#w152"/>
+      <audio clipBegin="87565ms" clipEnd="87915ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id153">
+      <!-- still -->
+      <text src="../018.xhtml#w153"/>
+      <audio clipBegin="87915ms" clipEnd="88425ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id154">
+      <!-- misses -->
+      <text src="../018.xhtml#w154"/>
+      <audio clipBegin="88425ms" clipEnd="88785ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id155">
+      <!-- Andy -->
+      <text src="../018.xhtml#w155"/>
+      <audio clipBegin="88785ms" clipEnd="89175ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id155g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="89175ms" clipEnd="89720ms" src="../audio/9781484703250.m4a"/>
+    </par>
+  </body>
+</smil>

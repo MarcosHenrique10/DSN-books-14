@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id274g">
+      <!--  -->
+      <text src="../031.xhtml#empty"/>
+      <audio clipBegin="150235ms" clipEnd="150675ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id274">
+      <!-- Woody -->
+      <text src="../031.xhtml#w274"/>
+      <audio clipBegin="150675ms" clipEnd="151045ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id275">
+      <!-- is -->
+      <text src="../031.xhtml#w275"/>
+      <audio clipBegin="151045ms" clipEnd="151215ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id276">
+      <!-- happy -->
+      <text src="../031.xhtml#w276"/>
+      <audio clipBegin="151215ms" clipEnd="151615ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id277">
+      <!-- to -->
+      <text src="../031.xhtml#w277"/>
+      <audio clipBegin="151615ms" clipEnd="151745ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id278">
+      <!-- spend -->
+      <text src="../031.xhtml#w278"/>
+      <audio clipBegin="151745ms" clipEnd="152135ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id279">
+      <!-- Christmas -->
+      <text src="../031.xhtml#w279"/>
+      <audio clipBegin="152135ms" clipEnd="152705ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id280">
+      <!-- with -->
+      <text src="../031.xhtml#w280"/>
+      <audio clipBegin="152705ms" clipEnd="152815ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id281">
+      <!-- his -->
+      <text src="../031.xhtml#w281"/>
+      <audio clipBegin="152815ms" clipEnd="153035ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id282">
+      <!-- friends -->
+      <text src="../031.xhtml#w282"/>
+      <audio clipBegin="153035ms" clipEnd="154255ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id283">
+      <!-- He -->
+      <text src="../031.xhtml#w283"/>
+      <audio clipBegin="154255ms" clipEnd="154395ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id284">
+      <!-- wishes -->
+      <text src="../031.xhtml#w284"/>
+      <audio clipBegin="154395ms" clipEnd="154835ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id285">
+      <!-- them -->
+      <text src="../031.xhtml#w285"/>
+      <audio clipBegin="154835ms" clipEnd="155075ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id286">
+      <!-- all -->
+      <text src="../031.xhtml#w286"/>
+      <audio clipBegin="155075ms" clipEnd="155655ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id287">
+      <!-- a -->
+      <text src="../031.xhtml#w287"/>
+      <audio clipBegin="155655ms" clipEnd="155725ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id288">
+      <!-- merry -->
+      <text src="../031.xhtml#w288"/>
+      <audio clipBegin="155725ms" clipEnd="156215ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id289">
+      <!-- Christmas -->
+      <text src="../031.xhtml#w289"/>
+      <audio clipBegin="156215ms" clipEnd="156965ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id289g">
+      <!--  -->
+      <text src="../031.xhtml#empty"/>
+      <audio clipBegin="156965ms" clipEnd="157825ms" src="../audio/9781484703250.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id116g">
+      <!--  -->
+      <text src="../015.xhtml#empty"/>
+      <audio clipBegin="70690ms" clipEnd="71155ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id116">
+      <!-- The -->
+      <text src="../015.xhtml#w116"/>
+      <audio clipBegin="71155ms" clipEnd="71225ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id117">
+      <!-- Green -->
+      <text src="../015.xhtml#w117"/>
+      <audio clipBegin="71225ms" clipEnd="71595ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id118">
+      <!-- Army -->
+      <text src="../015.xhtml#w118"/>
+      <audio clipBegin="71595ms" clipEnd="71915ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id119">
+      <!-- Men -->
+      <text src="../015.xhtml#w119"/>
+      <audio clipBegin="71915ms" clipEnd="72205ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id120">
+      <!-- and -->
+      <text src="../015.xhtml#w120"/>
+      <audio clipBegin="72205ms" clipEnd="72315ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id121">
+      <!-- the -->
+      <text src="../015.xhtml#w121"/>
+      <audio clipBegin="72315ms" clipEnd="72445ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id122">
+      <!-- Aliens -->
+      <text src="../015.xhtml#w122"/>
+      <audio clipBegin="72445ms" clipEnd="73165ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id123">
+      <!-- add -->
+      <text src="../015.xhtml#w123"/>
+      <audio clipBegin="73165ms" clipEnd="73335ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id124">
+      <!-- ribbons -->
+      <text src="../015.xhtml#w124"/>
+      <audio clipBegin="73335ms" clipEnd="73835ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id125">
+      <!-- and -->
+      <text src="../015.xhtml#w125"/>
+      <audio clipBegin="73835ms" clipEnd="73965ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id126">
+      <!-- bows -->
+      <text src="../015.xhtml#w126"/>
+      <audio clipBegin="73965ms" clipEnd="74405ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id126g">
+      <!--  -->
+      <text src="../015.xhtml#empty"/>
+      <audio clipBegin="74405ms" clipEnd="75306ms" src="../audio/9781484703250.m4a"/>
+    </par>
+  </body>
+</smil>

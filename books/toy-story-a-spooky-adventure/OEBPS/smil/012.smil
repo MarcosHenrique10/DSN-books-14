@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id103g">
+      <!--  -->
+      <text src="../012.xhtml#empty"/>
+      <audio clipBegin="66128ms" clipEnd="67068ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id103">
+      <!-- Rex -->
+      <text src="../012.xhtml#w103"/>
+      <audio clipBegin="67068ms" clipEnd="67428ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id104">
+      <!-- looked -->
+      <text src="../012.xhtml#w104"/>
+      <audio clipBegin="67428ms" clipEnd="67698ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id105">
+      <!-- under -->
+      <text src="../012.xhtml#w105"/>
+      <audio clipBegin="67698ms" clipEnd="67938ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id106">
+      <!-- Bonnie's -->
+      <text src="../012.xhtml#w106"/>
+      <audio clipBegin="67938ms" clipEnd="68338ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id107">
+      <!-- bed -->
+      <text src="../012.xhtml#w107"/>
+      <audio clipBegin="68338ms" clipEnd="69178ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id108">
+      <!-- He -->
+      <text src="../012.xhtml#w108"/>
+      <audio clipBegin="69178ms" clipEnd="69338ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id109">
+      <!-- saw -->
+      <text src="../012.xhtml#w109"/>
+      <audio clipBegin="69338ms" clipEnd="69668ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id110">
+      <!-- monsters -->
+      <text src="../012.xhtml#w110"/>
+      <audio clipBegin="69668ms" clipEnd="70748ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id110g">
+      <!--  -->
+      <text src="../012.xhtml#empty"/>
+      <audio clipBegin="70748ms" clipEnd="71153ms" src="../audio/9781423103236.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id59g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="43833ms" clipEnd="44758ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id59">
+      <!-- The -->
+      <text src="../008.xhtml#w59"/>
+      <audio clipBegin="44758ms" clipEnd="44818ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id60">
+      <!-- Potato -->
+      <text src="../008.xhtml#w60"/>
+      <audio clipBegin="44818ms" clipEnd="45258ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id61">
+      <!-- Heads -->
+      <text src="../008.xhtml#w61"/>
+      <audio clipBegin="45258ms" clipEnd="45608ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id62">
+      <!-- jumped -->
+      <text src="../008.xhtml#w62"/>
+      <audio clipBegin="45608ms" clipEnd="46618ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id63">
+      <!-- Bullseye -->
+      <text src="../008.xhtml#w63"/>
+      <audio clipBegin="46618ms" clipEnd="47318ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id64">
+      <!-- hid -->
+      <text src="../008.xhtml#w64"/>
+      <audio clipBegin="47318ms" clipEnd="47568ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id65">
+      <!-- in -->
+      <text src="../008.xhtml#w65"/>
+      <audio clipBegin="47568ms" clipEnd="47688ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id66">
+      <!-- a -->
+      <text src="../008.xhtml#w66"/>
+      <audio clipBegin="47688ms" clipEnd="47758ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id67">
+      <!-- drawer -->
+      <text src="../008.xhtml#w67"/>
+      <audio clipBegin="47758ms" clipEnd="48278ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id67g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="48278ms" clipEnd="48743ms" src="../audio/9781423103236.m4a"/>
+    </par>
+  </body>
+</smil>

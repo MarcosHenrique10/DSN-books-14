@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id127g">
+      <!--  -->
+      <text src="../016.xhtml#empty"/>
+      <audio clipBegin="75306ms" clipEnd="76105ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id127">
+      <!-- Jessie -->
+      <text src="../016.xhtml#w127"/>
+      <audio clipBegin="76105ms" clipEnd="76525ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id128">
+      <!-- makes -->
+      <text src="../016.xhtml#w128"/>
+      <audio clipBegin="76525ms" clipEnd="76825ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id129">
+      <!-- a -->
+      <text src="../016.xhtml#w129"/>
+      <audio clipBegin="76825ms" clipEnd="76925ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id130">
+      <!-- Santa -->
+      <text src="../016.xhtml#w130"/>
+      <audio clipBegin="76925ms" clipEnd="77385ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id131">
+      <!-- hat -->
+      <text src="../016.xhtml#w131"/>
+      <audio clipBegin="77385ms" clipEnd="77775ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id132">
+      <!-- for -->
+      <text src="../016.xhtml#w132"/>
+      <audio clipBegin="77775ms" clipEnd="77945ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id133">
+      <!-- Rex -->
+      <text src="../016.xhtml#w133"/>
+      <audio clipBegin="77945ms" clipEnd="78335ms" src="../audio/9781484703250.m4a"/>
+    </par>
+    <par id="id133g">
+      <!--  -->
+      <text src="../016.xhtml#empty"/>
+      <audio clipBegin="78335ms" clipEnd="78780ms" src="../audio/9781484703250.m4a"/>
+    </par>
+  </body>
+</smil>

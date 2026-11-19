@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id231g">
+      <!--  -->
+      <text src="../026.xhtml#empty"/>
+      <audio clipBegin="134478ms" clipEnd="135418ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id231">
+      <!-- Chuckles -->
+      <text src="../026.xhtml#w231"/>
+      <audio clipBegin="135418ms" clipEnd="136038ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id232">
+      <!-- opened -->
+      <text src="../026.xhtml#w232"/>
+      <audio clipBegin="136038ms" clipEnd="136408ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id233">
+      <!-- the -->
+      <text src="../026.xhtml#w233"/>
+      <audio clipBegin="136408ms" clipEnd="136488ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id234">
+      <!-- closet -->
+      <text src="../026.xhtml#w234"/>
+      <audio clipBegin="136488ms" clipEnd="136928ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id235">
+      <!-- door -->
+      <text src="../026.xhtml#w235"/>
+      <audio clipBegin="136928ms" clipEnd="137968ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id236">
+      <!-- Woody -->
+      <text src="../026.xhtml#w236"/>
+      <audio clipBegin="137968ms" clipEnd="138258ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id237">
+      <!-- froze -->
+      <text src="../026.xhtml#w237"/>
+      <audio clipBegin="138258ms" clipEnd="139358ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id238">
+      <!-- Buzz -->
+      <text src="../026.xhtml#w238"/>
+      <audio clipBegin="139358ms" clipEnd="139788ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id239">
+      <!-- jumped -->
+      <text src="../026.xhtml#w239"/>
+      <audio clipBegin="139788ms" clipEnd="140708ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id240">
+      <!-- Rex -->
+      <text src="../026.xhtml#w240"/>
+      <audio clipBegin="140708ms" clipEnd="141188ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id241">
+      <!-- yelled -->
+      <text src="../026.xhtml#w241"/>
+      <audio clipBegin="141188ms" clipEnd="141768ms" src="../audio/9781423103236.m4a"/>
+    </par>
+    <par id="id241g">
+      <!--  -->
+      <text src="../026.xhtml#empty"/>
+      <audio clipBegin="141768ms" clipEnd="142273ms" src="../audio/9781423103236.m4a"/>
+    </par>
+  </body>
+</smil>

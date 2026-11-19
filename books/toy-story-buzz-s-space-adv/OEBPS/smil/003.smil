@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!---->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="18335ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- By -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="18335ms" clipEnd="18495ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Apple -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="18495ms" clipEnd="18985ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Jordan -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="18985ms" clipEnd="19885ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="19885ms" clipEnd="20485ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="20485ms" clipEnd="20745ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Federico -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="20745ms" clipEnd="21175ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Mancuso -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="21175ms" clipEnd="22265ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Giorgio -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="22265ms" clipEnd="22755ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Vallorani -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="22755ms" clipEnd="23585ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- and -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="23585ms" clipEnd="23755ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Jeff -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="23755ms" clipEnd="24055ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Jenney -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="24055ms" clipEnd="24445ms" src="../audio/9781423195849.m4a"/>
+    </par>
+    <par id="id12g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="24445ms" clipEnd="25305ms" src="../audio/9781423195849.m4a"/>
+    </par>
+  </body>
+</smil>

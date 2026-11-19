@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id871g">
+      <!--  -->
+      <text src="../025.xhtml#empty"/>
+      <audio clipBegin="366484ms" clipEnd="367059ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id871">
+      <!-- Rex -->
+      <text src="../025.xhtml#w871"/>
+      <audio clipBegin="367059ms" clipEnd="367389ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id872">
+      <!-- and -->
+      <text src="../025.xhtml#w872"/>
+      <audio clipBegin="367389ms" clipEnd="367499ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id873">
+      <!-- his -->
+      <text src="../025.xhtml#w873"/>
+      <audio clipBegin="367499ms" clipEnd="367749ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id874">
+      <!-- friends -->
+      <text src="../025.xhtml#w874"/>
+      <audio clipBegin="367749ms" clipEnd="368169ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id875">
+      <!-- peeked -->
+      <text src="../025.xhtml#w875"/>
+      <audio clipBegin="368169ms" clipEnd="368559ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id876">
+      <!-- outside -->
+      <text src="../025.xhtml#w876"/>
+      <audio clipBegin="368559ms" clipEnd="369159ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id877">
+      <!-- to -->
+      <text src="../025.xhtml#w877"/>
+      <audio clipBegin="369159ms" clipEnd="369229ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id878">
+      <!-- see -->
+      <text src="../025.xhtml#w878"/>
+      <audio clipBegin="369229ms" clipEnd="369469ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id879">
+      <!-- Bonnie's -->
+      <text src="../025.xhtml#w879"/>
+      <audio clipBegin="369469ms" clipEnd="369899ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id880">
+      <!-- swimming -->
+      <text src="../025.xhtml#w880"/>
+      <audio clipBegin="369899ms" clipEnd="370389ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id881">
+      <!-- pool -->
+      <text src="../025.xhtml#w881"/>
+      <audio clipBegin="370389ms" clipEnd="370639ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id882">
+      <!-- surrounded -->
+      <text src="../025.xhtml#w882"/>
+      <audio clipBegin="370639ms" clipEnd="371359ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id883">
+      <!-- by -->
+      <text src="../025.xhtml#w883"/>
+      <audio clipBegin="371359ms" clipEnd="371699ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id884">
+      <!-- outdoor -->
+      <text src="../025.xhtml#w884"/>
+      <audio clipBegin="371699ms" clipEnd="372199ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id885">
+      <!-- water -->
+      <text src="../025.xhtml#w885"/>
+      <audio clipBegin="372199ms" clipEnd="372569ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id886">
+      <!-- toys -->
+      <text src="../025.xhtml#w886"/>
+      <audio clipBegin="372569ms" clipEnd="373729ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id887">
+      <!-- Rex -->
+      <text src="../025.xhtml#w887"/>
+      <audio clipBegin="373729ms" clipEnd="374679ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id888">
+      <!-- Rex -->
+      <text src="../025.xhtml#w888"/>
+      <audio clipBegin="374679ms" clipEnd="375539ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id889">
+      <!-- Rex -->
+      <text src="../025.xhtml#w889"/>
+      <audio clipBegin="375539ms" clipEnd="376319ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id890">
+      <!-- they -->
+      <text src="../025.xhtml#w890"/>
+      <audio clipBegin="376319ms" clipEnd="376439ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id891">
+      <!-- chanted -->
+      <text src="../025.xhtml#w891"/>
+      <audio clipBegin="376439ms" clipEnd="377679ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id892">
+      <!-- Rex's -->
+      <text src="../025.xhtml#w892"/>
+      <audio clipBegin="377679ms" clipEnd="378259ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id893">
+      <!-- friends -->
+      <text src="../025.xhtml#w893"/>
+      <audio clipBegin="378259ms" clipEnd="379009ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id894">
+      <!-- were -->
+      <text src="../025.xhtml#w894"/>
+      <audio clipBegin="379009ms" clipEnd="379139ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id895">
+      <!-- stunned -->
+      <text src="../025.xhtml#w895"/>
+      <audio clipBegin="379139ms" clipEnd="379849ms" src="../audio/9781484711323.m4a"/>
+    </par>
+    <par id="id895g">
+      <!--  -->
+      <text src="../025.xhtml#empty"/>
+      <audio clipBegin="379849ms" clipEnd="380769ms" src="../audio/9781484711323.m4a"/>
+    </par>
+  </body>
+</smil>

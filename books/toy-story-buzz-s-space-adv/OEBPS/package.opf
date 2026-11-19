@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Buzz's Space Adventure</dc:title>
+    <dc:publisher>Disney Press</dc:publisher>
+    <dc:creator>Disney Press</dc:creator>
+    <dc:subject>Fiction - Young Adult</dc:subject>
+    <dc:rights>Copyright 2013 Disney. All rights reserved.</dc:rights>
+    <dc:identifier id="bookid">9781423195849</dc:identifier>
+    <dc:language>en</dc:language>
+    <meta property="dcterms:modified">2013-06-19T00:00:00Z</meta>
+    <meta property="ibooks:version">1.0</meta>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:spread">auto</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="media:active-class">media-overlay-active</meta>
+    <meta property="media:duration">0:03:42</meta>
+    <meta property="media:duration" refines="#smil002">0:00:00</meta>
+    <meta property="media:duration" refines="#smil003">0:00:24</meta>
+    <meta property="media:duration" refines="#smil004">0:00:18</meta>
+    <meta property="media:duration" refines="#smil005">0:00:17</meta>
+    <meta property="media:duration" refines="#smil006">0:00:00</meta>
+    <meta property="media:duration" refines="#smil007">0:00:26</meta>
+    <meta property="media:duration" refines="#smil008">0:00:15</meta>
+    <meta property="media:duration" refines="#smil009">0:00:08</meta>
+    <meta property="media:duration" refines="#smil010">0:00:00</meta>
+    <meta property="media:duration" refines="#smil011">0:00:13</meta>
+    <meta property="media:duration" refines="#smil012">0:00:10</meta>
+    <meta property="media:duration" refines="#smil013">0:00:13</meta>
+    <meta property="media:duration" refines="#smil014">0:00:14</meta>
+    <meta property="media:duration" refines="#smil015">0:00:00</meta>
+    <meta property="media:duration" refines="#smil016">0:00:16</meta>
+    <meta property="media:duration" refines="#smil017">0:00:22</meta>
+    <meta property="media:duration" refines="#smil018">0:00:05</meta>
+  </metadata>
+  <manifest>
+    <!-- supplementary -->
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="css" href="css/styles.css" media-type="text/css"/>
+    <!-- fonts -->
+    <item id="font1" href="fonts/Arial.otf" media-type="application/x-font-opentype"/>
+    <item id="font2" href="fonts/Billy.otf" media-type="application/x-font-opentype"/>
+    <item id="font3" href="fonts/CenturyOSMT.otf" media-type="application/x-font-opentype"/>
+    <item id="font4" href="fonts/Data_Seventy_Plain.otf" media-type="application/x-font-opentype"/>
+    <!-- content -->
+    <item id="pg001" href="001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pg002" href="002.xhtml" media-type="application/xhtml+xml" media-overlay="smil002"/>
+    <item id="pg003" href="003.xhtml" media-type="application/xhtml+xml" media-overlay="smil003"/>
+    <item id="pg004" href="004.xhtml" media-type="application/xhtml+xml" media-overlay="smil004"/>
+    <item id="pg005" href="005.xhtml" media-type="application/xhtml+xml" media-overlay="smil005"/>
+    <item id="pg006" href="006.xhtml" media-type="application/xhtml+xml" media-overlay="smil006"/>
+    <item id="pg007" href="007.xhtml" media-type="application/xhtml+xml" media-overlay="smil007"/>
+    <item id="pg008" href="008.xhtml" media-type="application/xhtml+xml" media-overlay="smil008"/>
+    <item id="pg009" href="009.xhtml" media-type="application/xhtml+xml" media-overlay="smil009"/>
+    <item id="pg010" href="010.xhtml" media-type="application/xhtml+xml" media-overlay="smil010"/>
+    <item id="pg011" href="011.xhtml" media-type="application/xhtml+xml" media-overlay="smil011"/>
+    <item id="pg012" href="012.xhtml" media-type="application/xhtml+xml" media-overlay="smil012"/>
+    <item id="pg013" href="013.xhtml" media-type="application/xhtml+xml" media-overlay="smil013"/>
+    <item id="pg014" href="014.xhtml" media-type="application/xhtml+xml" media-overlay="smil014"/>
+    <item id="pg015" href="015.xhtml" media-type="application/xhtml+xml" media-overlay="smil015"/>
+    <item id="pg016" href="016.xhtml" media-type="application/xhtml+xml" media-overlay="smil016"/>
+    <item id="pg017" href="017.xhtml" media-type="application/xhtml+xml" media-overlay="smil017"/>
+    <item id="pg018" href="018.xhtml" media-type="application/xhtml+xml" media-overlay="smil018"/>
+    <item id="pg019" href="019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pg020" href="020.xhtml" media-type="application/xhtml+xml"/>
+    <!-- images -->
+    <item id="img001" href="images/001.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="img002" href="images/002.jpg" media-type="image/jpeg"/>
+    <item id="img003" href="images/003.jpg" media-type="image/jpeg"/>
+    <item id="img004" href="images/004.jpg" media-type="image/jpeg"/>
+    <item id="img005" href="images/005.jpg" media-type="image/jpeg"/>
+    <item id="img006" href="images/006.jpg" media-type="image/jpeg"/>
+    <item id="img007" href="images/007.jpg" media-type="image/jpeg"/>
+    <item id="img008" href="images/008.jpg" media-type="image/jpeg"/>
+    <item id="img009" href="images/009.jpg" media-type="image/jpeg"/>
+    <item id="img010" href="images/010.jpg" media-type="image/jpeg"/>
+    <item id="img011" href="images/011.jpg" media-type="image/jpeg"/>
+    <item id="img012" href="images/012.jpg" media-type="image/jpeg"/>
+    <item id="img013" href="images/013.jpg" media-type="image/jpeg"/>
+    <item id="img014" href="images/014.jpg" media-type="image/jpeg"/>
+    <item id="img015" href="images/015.jpg" media-type="image/jpeg"/>
+    <item id="img016" href="images/016.jpg" media-type="image/jpeg"/>
+    <item id="img017" href="images/017.jpg" media-type="image/jpeg"/>
+    <item id="img018" href="images/018.jpg" media-type="image/jpeg"/>
+    <item id="img019" href="images/019.jpg" media-type="image/jpeg"/>
+    <item id="img020" href="images/020.jpg" media-type="image/jpeg"/>
+    <!-- audio -->
+    <item id="audio1" href="audio/9781423195849.m4a" media-type="audio/mpeg"/>
+    <!-- smil -->
+    <item id="smil002" href="smil/002.smil" media-type="application/smil+xml"/>
+    <item id="smil003" href="smil/003.smil" media-type="application/smil+xml"/>
+    <item id="smil004" href="smil/004.smil" media-type="application/smil+xml"/>
+    <item id="smil005" href="smil/005.smil" media-type="application/smil+xml"/>
+    <item id="smil006" href="smil/006.smil" media-type="application/smil+xml"/>
+    <item id="smil007" href="smil/007.smil" media-type="application/smil+xml"/>
+    <item id="smil008" href="smil/008.smil" media-type="application/smil+xml"/>
+    <item id="smil009" href="smil/009.smil" media-type="application/smil+xml"/>
+    <item id="smil010" href="smil/010.smil" media-type="application/smil+xml"/>
+    <item id="smil011" href="smil/011.smil" media-type="application/smil+xml"/>
+    <item id="smil012" href="smil/012.smil" media-type="application/smil+xml"/>
+    <item id="smil013" href="smil/013.smil" media-type="application/smil+xml"/>
+    <item id="smil014" href="smil/014.smil" media-type="application/smil+xml"/>
+    <item id="smil015" href="smil/015.smil" media-type="application/smil+xml"/>
+    <item id="smil016" href="smil/016.smil" media-type="application/smil+xml"/>
+    <item id="smil017" href="smil/017.smil" media-type="application/smil+xml"/>
+    <item id="smil018" href="smil/018.smil" media-type="application/smil+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="pg001"/>
+    <itemref idref="pg002"/>
+    <itemref idref="pg003"/>
+    <itemref idref="pg004"/>
+    <itemref idref="pg005"/>
+    <itemref idref="pg006"/>
+    <itemref idref="pg007"/>
+    <itemref idref="pg008"/>
+    <itemref idref="pg009"/>
+    <itemref idref="pg010"/>
+    <itemref idref="pg011"/>
+    <itemref idref="pg012"/>
+    <itemref idref="pg013"/>
+    <itemref idref="pg014"/>
+    <itemref idref="pg015"/>
+    <itemref idref="pg016"/>
+    <itemref idref="pg017"/>
+    <itemref idref="pg018"/>
+    <itemref idref="pg019"/>
+    <itemref idref="pg020"/>
+  </spine>
+</package>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id0">
+      <!--  -->
+      <text src="../015.xhtml#empty"/>
+      <audio clipBegin="81648ms" clipEnd="82298ms" src="../audio/9781423103236.m4a"/>
+    </par>
+  </body>
+</smil>
