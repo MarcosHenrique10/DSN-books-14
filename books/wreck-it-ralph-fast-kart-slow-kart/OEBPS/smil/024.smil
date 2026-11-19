@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id111g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="100457ms" clipEnd="101517ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id111">
+			<!-- Vanellope -->
+			<text src="../024.xhtml#w111"/>
+			<audio clipBegin="101517ms" clipEnd="102737ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id112">
+			<!-- wins -->
+			<text src="../024.xhtml#w112"/>
+			<audio clipBegin="102737ms" clipEnd="105087ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id112g">
+			<!--  -->
+			<text src="../024.xhtml#empty1"/>
+			<audio clipBegin="105087ms" clipEnd="113477ms" src="../audio/9781484751930.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="10468ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Wreck -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="10468ms" clipEnd="10838ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- It -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="10838ms" clipEnd="10988ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Ralph -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="10988ms" clipEnd="11808ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- One -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="11808ms" clipEnd="12388ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Sweet -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="12388ms" clipEnd="13078ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Race -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="13078ms" clipEnd="13986ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- by -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="13986ms" clipEnd="14358ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Elle -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="14358ms" clipEnd="14718ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- D -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="14718ms" clipEnd="15098ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Risco -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="15098ms" clipEnd="16248ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- illustrated -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="16248ms" clipEnd="16898ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- by -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="16898ms" clipEnd="17088ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Brittney -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="17088ms" clipEnd="17518ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Lee -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="17518ms" clipEnd="17969ms" src="../audio/9781484751947.m4a"/>
+    </par>
+    <par id="id14g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="17969ms" clipEnd="18377ms" src="../audio/9781484751947.m4a"/>
+    </par>
+  </body>
+</smil>

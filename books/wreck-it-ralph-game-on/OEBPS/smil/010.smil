@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id67g">
+      <!--  -->
+      <text src="../010.xhtml#empty"/>
+      <audio clipBegin="59524ms" clipEnd="61495ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id67">
+      <!-- Ralph -->
+      <text src="../010.xhtml#w67"/>
+      <audio clipBegin="61495ms" clipEnd="61895ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id68">
+      <!-- goes -->
+      <text src="../010.xhtml#w68"/>
+      <audio clipBegin="61895ms" clipEnd="62305ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id69">
+      <!-- to -->
+      <text src="../010.xhtml#w69"/>
+      <audio clipBegin="62305ms" clipEnd="62465ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id70">
+      <!-- Sugar -->
+      <text src="../010.xhtml#w70"/>
+      <audio clipBegin="62465ms" clipEnd="62935ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id71">
+      <!-- Rush -->
+      <text src="../010.xhtml#w71"/>
+      <audio clipBegin="62935ms" clipEnd="63265ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id72">
+      <!-- next -->
+      <text src="../010.xhtml#w72"/>
+      <audio clipBegin="63265ms" clipEnd="63795ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id72g">
+      <!--  -->
+      <text src="../010.xhtml#empty"/>
+      <audio clipBegin="63795ms" clipEnd="64560ms" src="../audio/9781423191964.m4a"/>
+    </par>
+  </body>
+</smil>

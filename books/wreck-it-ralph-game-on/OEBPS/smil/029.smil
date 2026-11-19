@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id275g">
+      <!--  -->
+      <text src="../029.xhtml#empty"/>
+      <audio clipBegin="194155ms" clipEnd="194525ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id275">
+      <!-- She -->
+      <text src="../029.xhtml#w275"/>
+      <audio clipBegin="194525ms" clipEnd="194775ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id276">
+      <!-- wins -->
+      <text src="../029.xhtml#w276"/>
+      <audio clipBegin="194775ms" clipEnd="195205ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id277">
+      <!-- the -->
+      <text src="../029.xhtml#w277"/>
+      <audio clipBegin="195205ms" clipEnd="195285ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id278">
+      <!-- race -->
+      <text src="../029.xhtml#w278"/>
+      <audio clipBegin="195285ms" clipEnd="195885ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id278g">
+      <!--  -->
+      <text src="../029.xhtml#empty"/>
+      <audio clipBegin="195885ms" clipEnd="197607ms" src="../audio/9781423191964.m4a"/>
+    </par>
+  </body>
+</smil>

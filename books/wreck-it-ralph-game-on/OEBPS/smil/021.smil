@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id176">
+      <!-- Ralph -->
+      <text src="../021.xhtml#w176"/>
+      <audio clipBegin="129485ms" clipEnd="129885ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id177">
+      <!-- and -->
+      <text src="../021.xhtml#w177"/>
+      <audio clipBegin="129885ms" clipEnd="130005ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id178">
+      <!-- Vanellope -->
+      <text src="../021.xhtml#w178"/>
+      <audio clipBegin="130005ms" clipEnd="130535ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id179">
+      <!-- make -->
+      <text src="../021.xhtml#w179"/>
+      <audio clipBegin="130535ms" clipEnd="130925ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id180">
+      <!-- a -->
+      <text src="../021.xhtml#w180"/>
+      <audio clipBegin="130925ms" clipEnd="131015ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id181">
+      <!-- new -->
+      <text src="../021.xhtml#w181"/>
+      <audio clipBegin="131015ms" clipEnd="131385ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id182">
+      <!-- race -->
+      <text src="../021.xhtml#w182"/>
+      <audio clipBegin="131385ms" clipEnd="131655ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id183">
+      <!-- kart -->
+      <text src="../021.xhtml#w183"/>
+      <audio clipBegin="131655ms" clipEnd="132105ms" src="../audio/9781423191964.m4a"/>
+    </par>
+    <par id="id183g">
+      <!--  -->
+      <text src="../021.xhtml#empty"/>
+      <audio clipBegin="132105ms" clipEnd="133968ms" src="../audio/9781423191964.m4a"/>
+    </par>
+  </body>
+</smil>

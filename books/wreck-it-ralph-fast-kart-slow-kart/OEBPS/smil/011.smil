@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id58g">
+			<!--  -->
+			<text src="../011.xhtml#empty"/>
+			<audio clipBegin="50202ms" clipEnd="50637ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id58">
+			<!-- Felix -->
+			<text src="../011.xhtml#w58"/>
+			<audio clipBegin="50637ms" clipEnd="51107ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id59">
+			<!-- and -->
+			<text src="../011.xhtml#w59"/>
+			<audio clipBegin="51107ms" clipEnd="51197ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id60">
+			<!-- his -->
+			<text src="../011.xhtml#w60"/>
+			<audio clipBegin="51197ms" clipEnd="51447ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id61">
+			<!-- friends -->
+			<text src="../011.xhtml#w61"/>
+			<audio clipBegin="51447ms" clipEnd="52307ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id62">
+			<!-- are -->
+			<text src="../011.xhtml#w62"/>
+			<audio clipBegin="52307ms" clipEnd="52427ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id63">
+			<!-- inside -->
+			<text src="../011.xhtml#w63"/>
+			<audio clipBegin="52427ms" clipEnd="52997ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id64">
+			<!-- the -->
+			<text src="../011.xhtml#w64"/>
+			<audio clipBegin="52997ms" clipEnd="53077ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id65">
+			<!-- game -->
+			<text src="../011.xhtml#w65"/>
+			<audio clipBegin="53077ms" clipEnd="53587ms" src="../audio/9781484751930.m4a"/>
+		</par>
+		<par id="id65g">
+			<!--  -->
+			<text src="../011.xhtml#empty1"/>
+			<audio clipBegin="53587ms" clipEnd="54642ms" src="../audio/9781484751930.m4a"/>
+		</par>
+	</body>
+</smil>

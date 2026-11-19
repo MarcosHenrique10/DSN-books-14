@@ -1,0 +1,134 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"century-os-mt-regular";
+	src: url(../fonts/CenturyOSMT.otf);
+}
+@font-face {
+	font-family:"century-os-mt-italic";
+	src: url(../fonts/CenturyOSMTItalic.otf);
+}
+@font-face {
+	font-family:"triplex-light";
+	src: url(../fonts/TriplexLight.otf);
+}
+@font-face {
+	font-family:"triplex-extrabold";
+	src: url(../fonts/TriplexExtBold.otf);
+}
+@font-face {
+	font-family:"triplex-bold";
+	src: url(../fonts/TriplexBold.otf);
+}
+
+.font-1 {
+	font-family:"century-os-mt-regular";
+	font-size:15px;
+	line-height:18px;
+}
+.font-2 {
+	font-family:"arial-roman";
+	font-size:15px;
+	line-height:14px;
+}
+.font-3 {
+	font-family:"arial-roman";
+	font-size:12px;
+	line-height:14px;
+}
+.font-4 {
+	font-family:"century-os-mt-regular";
+	font-size:14px;
+	line-height:16px;
+}
+.font-5 {
+	font-family:"century-os-mt-italic";
+	font-size:23px;
+	line-height:27px;
+}
+.font-6 {
+	font-family:"century-os-mt-regular";
+	font-size:27px;
+	line-height:39px;
+}
+.font-7 {
+	font-family:"century-os-mt-regular";
+	font-size:42px;
+	line-height:72px;
+}
+.font-8 {
+	font-family:"triplex-extrabold";
+	font-size:23px;
+	line-height:24px;
+}
+.font-9 {
+	font-family:"triplex-light";
+	font-size:17px;
+	line-height:20px;
+}
+.font-10 {
+	font-family:"triplex-bold";
+	font-size:31px;
+}
+.font-11 {
+	font-family:"triplex-light";
+	font-size:20px;
+	line-height:23px;
+}
+.font-12 {
+	font-family:"triplex-bold";
+	font-size:24px;
+}
+.font-13 {
+	font-family:"triplex-light";
+	font-size:16px;
+}
+
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.text-frame .copyright {margin: 0 0 18px 0;}
+.text-frame p.bob { color: #ffffff;}
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.white {color: #ffffff;}
+.before-underline {float: left; margin: 0 15px 0 0;}
+.underline {float: left; width: 200px; border-bottom: 2px solid #000000; margin: 11px 10px 0 0; padding: 0 0 0 8px; position: relative; left: -4px; line-height: 51px;}
+.underline span {position: relative; left: -3px;}
+.underline .underline-punc {position: absolute; left: 92px; bottom: 0px;}
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:656px; height:985px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1313px; height:985px; overflow:hidden; position:relative; background-size:contain; }
+.pageKF8-single { width:656px; height:985px; position:relative; background-size:contain; left:25%; }
+/*span { color:#f6f !important; }*/
+
+/*TESTING EPUB/EPIB*/
+/* 
+.rbone,
+.page {
+	border: 1px solid red;
+}
+.pageKF8 {
+	background-color: red !important;
+}
+.gbone,
+.text-frame {
+	border: 1px solid #bada55;
+}
+.bbone {
+	border: 1px solid blue;
+}
+.pbone {
+	border: 1px solid fuchsia;
+}
+body {
+	color: fuchsia; blue;
+}
+ */
